@@ -1,0 +1,242 @@
+{
+ "date": "2026-11-10",
+ "written_at": "2026-11-10T20:46:38Z",
+ "title": "Hot October inflation pushes the 10-year yield to 5%",
+ "dek": "Consumer prices rose faster than expected in October, and a Fed governor's comments added to bets on a rate hike next month. Yields jumped, the dollar rose, and tech led stocks lower while Nvidia's CEO scandal and Anthropic's IPO terms kept AI in focus.",
+ "quick": [
+  "October CPI rose 0.4% for the month, above the 0.3% forecast, per CNBC and the BLS calendar.",
+  "The 10-year Treasury yield is near 4.99% after topping 5% intraday. The 2-year is up about 18 basis points.",
+  "The S&P 500 is down about 0.5% and the Nasdaq about 0.9%, with tech the weakest sector.",
+  "Nvidia fell for a second day after hiring Wachtell Lipton to investigate CEO Jensen Huang's affair with an alleged Chinese spy.",
+  "Anthropic set an IPO price range of $70 to $78 a share and plans to start trading Nov. 19, according to CNBC's sources.",
+  "Brent crude briefly slipped under $90 for the first time since August on hopes the Iran conflict is winding down."
+ ],
+ "sections": [
+  {
+   "title": "What's Driving Markets",
+   "kicker": "Ranked by market impact",
+   "blocks": [
+    {
+     "type": "point",
+     "head": "October inflation came in hotter than expected",
+     "what": "The consumer price index rose 0.4% in October, according to CNBC, above the 0.3% consensus and down from September's 0.6% gain. The BBC reported that shelter, food and energy drove the increase. The Wall Street Journal noted inflation cooled from the prior month but still overshot forecasts, and The New York Times said the report showed price pressures broadening beyond energy.",
+     "why": "A faster pace of price increases makes it harder for the Fed to hold rates steady. That pushes Treasury yields and the dollar up and weighs on rate-sensitive and high-valuation stocks, especially tech.",
+     "watch": "Producer prices on Friday are the next big inflation read before the Fed's December meeting."
+    },
+    {
+     "type": "point",
+     "head": "Bond yields jump as rate-hike bets build",
+     "what": "The 10-year Treasury yield rose above 5% during the session, according to the Wall Street Journal, and is now about 4.99%, up roughly 12 basis points. The 2-year yield rose about 18 basis points to 4.73%. The Journal and CNBC both tied the move to the CPI report combined with hawkish comments from Fed Governor Christopher Waller, who spoke at 9 a.m. ET.",
+     "why": "The WSJ reported traders are now betting on a steep rate increase at next month's meeting. Higher yields raise borrowing costs for companies and households and make bonds more competitive with stocks.",
+     "watch": "Several Fed officials speak today and Thursday, and a 30-year bond auction is Thursday afternoon."
+    },
+    {
+     "type": "point",
+     "head": "Nvidia slides again as its CEO probe widens",
+     "what": "Nvidia hired the law firm Wachtell Lipton to lead an internal investigation after CEO Jensen Huang admitted on Sunday to an affair with a woman linked to Chinese intelligence, according to CNBC, the WSJ, the NYT and the BBC. The NYT said former acting U.S. attorney Joon Kim is leading the inquiry. President Trump said the FBI is looking into the matter, per CNBC and the BBC, and the chair of the House China committee told CNBC he expects answers. CNBC reported Nvidia shares fell for a second straight day.",
+     "why": "Nvidia is one of the largest weights in the S&P 500 and the Nasdaq, so its moves drag on both. The scandal also raises questions about U.S. export policy on AI chips to China and about leadership succession at the company that anchors the AI trade.",
+     "watch": "Any board action, congressional requests or changes to chip export rules."
+    },
+    {
+     "type": "point",
+     "head": "Anthropic sets IPO terms; Microsoft drops",
+     "what": "CNBC reported, citing sources, that Anthropic set a price range of $70 to $78 a share and plans to begin trading Nov. 19. The WSJ said the company is seeking a valuation of about $1.3 trillion, while the NYT put the top of the range at up to $1.4 trillion. MarketWatch reported the offering could raise up to $63 billion. Separately, CNBC said Microsoft shares dropped suddenly midday on concerns about competition from Anthropic in office software.",
+     "why": "The listing is being treated as a test of investor appetite for AI after recent tech volatility, per the WSJ and CNBC. A strong debut could support AI-related stocks. A weak one could add pressure. Competition worries show up in incumbent software names like Microsoft.",
+     "watch": "Demand signals during the roadshow and the final pricing next week."
+    },
+    {
+     "type": "point",
+     "head": "Oil eases on Iran hopes, but tensions remain",
+     "what": "Brent crude briefly dipped below $90 a barrel for the first time since August, according to CNBC, after President Trump said he expected the Iran conflict to end fairly soon and called new strikes highly unlikely. The NYT reported Secretary of State Marco Rubio said major combat operations are no longer needed. The Journal also reported the U.S. and Iran exchanged strikes on islands in the Strait of Hormuz in recent days. Brent is now about $92 and WTI about $86.",
+     "why": "Lower oil eases headline inflation and helps transport and consumer stocks, but the Strait of Hormuz is a key route for global oil shipments, so any flare-up can reverse the move quickly. NPR reported U.S. gasoline fell below $4 a gallon for the first time in three months.",
+     "watch": "Weekly inventory data from the API this afternoon and the EIA on Thursday."
+    },
+    {
+     "type": "point",
+     "head": "Consumer debt keeps climbing",
+     "what": "A New York Fed report showed credit card balances at a record $1.29 trillion, according to CNBC, and home-equity line balances posted their biggest jump since 2005. The NYT noted the same data showed households still keeping up with most auto, student loan and mortgage payments.",
+     "why": "Rising balances show consumers leaning on credit as prices stay high. That matters for bank and card-lender earnings and for how long consumer spending can hold up if rates rise further."
+    }
+   ]
+  },
+  {
+   "title": "Overnight & Global",
+   "blocks": [
+    {
+     "type": "sub",
+     "text": "Asia"
+    },
+    {
+     "type": "p",
+     "text": "Asian markets rose overnight before the U.S. inflation data. The WSJ said the region followed Wall Street's gains from Monday, with oil easing on hopes for an end to the Iran conflict and chip suppliers shrugging off Nvidia's troubles. Japan's Nikkei 225 jumped about 2.9%, Hong Kong's Hang Seng rose about 0.4%, and Shanghai was roughly flat. CNBC reported SoftBank shares surged 14% during the session. After the close, SoftBank reported a quarterly loss of about $7 billion tied to a writedown on a U.S. data center and a drop in Intel shares, per CNBC. China's trade surplus topped $1 trillion for a second straight year as of October, according to CNBC and the NYT."
+    },
+    {
+     "type": "sub",
+     "text": "Europe"
+    },
+    {
+     "type": "p",
+     "text": "The WSJ reported the Stoxx 600 was on track for its first record close since August, helped by lower oil prices, and it is up about 0.3%. Germany's DAX is up about 0.3% and the UK's FTSE 100 is down about 0.3%. In the UK, the WSJ said Bank of England Deputy Governor Clare Lombardelli signaled another rate increase is likely soon unless inflation shows signs of weakening."
+    },
+    {
+     "type": "sub",
+     "text": "Currencies"
+    },
+    {
+     "type": "p",
+     "text": "The dollar index is up about 0.6% to roughly 102.2 alongside higher U.S. yields. The euro is down about 0.5% near $1.116 and the pound is down about 0.7% near $1.335. The dollar is up about 0.6% against the yen at about 158.8 yen. The yuan is little changed near 6.67 per dollar."
+    }
+   ]
+  },
+  {
+   "title": "Market Snapshot",
+   "live": "snapshot",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "U.S. stocks are lower in afternoon trading. The S&P 500 is down about 0.5%, the Dow about 0.4% and the Nasdaq about 0.9%. Small caps are weaker too, with the Russell 2000 down about 0.8%, which fits the pattern of rate-sensitive stocks struggling when yields jump. The VIX volatility index is near 19.8, roughly unchanged, which suggests a measured selloff rather than panic."
+    },
+    {
+     "type": "p",
+     "text": "Gold is down about 1.8% to around $4,040 an ounce and Bitcoin is down about 1.6% near $73,600, both moving lower alongside the rise in yields and the dollar. The table below updates live."
+    }
+   ]
+  },
+  {
+   "title": "Rates & the Fed",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Yields rose across the curve, but the biggest jump came at the short end, which is most sensitive to Fed policy. The 2-year is near 4.73% (up about 18 basis points), the 10-year near 4.99% (up about 12) and the 30-year near 5.35% (up about 9). That flattened the curve: the gap between the 10-year and 2-year narrowed to roughly 26 basis points from about 32. A flattening like this usually means markets expect the Fed to tighten in the near term."
+    },
+    {
+     "type": "p",
+     "text": "The Wall Street Journal said the combination of hot inflation and Waller's hawkish comments fueled bets on a steep rate increase next month. MarketWatch highlighted economist Neil Dutta's view that aggressive Fed hikes are becoming the biggest risk for stocks in 2027 and that markets may be too complacent. The Fed's next policy decision comes in December, with November CPI due the day after."
+    },
+    {
+     "type": "sub",
+     "text": "Fed speakers"
+    },
+    {
+     "type": "list",
+     "items": [
+      "Today: Waller (9:00 a.m., done), Logan (10:50 a.m.), Schmid (1:30 p.m.), Bowman (3:30 p.m. and 6:30 p.m.) and Paulson (6:30 p.m.), per the Forex Factory calendar.",
+      "Thursday: Hammack, Barr, Goolsbee, Daly, Schmid and Williams.",
+      "Friday: Collins, Bowman, Daly and Jefferson."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Stocks & Sectors",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Tech is the clear laggard, with the Technology sector fund (XLK) down about 1.3%, pulled lower by Nvidia's second straight decline and Microsoft's midday drop. MarketWatch reported AMD's early gains faded as investors weighed whether Nvidia's troubles would mean lasting wins for rivals. Materials (down about 0.3%), utilities (down about 0.3%) and industrials (down about 0.2%) are also lower."
+    },
+    {
+     "type": "p",
+     "text": "Energy leads, up about 0.6%, even with oil slightly lower on the day. Financials are up about 0.4%, as banks often benefit when yields rise. Communication services (up about 0.4%) and health care (up about 0.1%) are slightly higher."
+    },
+    {
+     "type": "sub",
+     "text": "Notable movers and company news"
+    },
+    {
+     "type": "list",
+     "items": [
+      "Nvidia: down for a second day as its CEO investigation widens (CNBC, WSJ).",
+      "Microsoft: dropped suddenly midday on worries about Anthropic competing in office software (CNBC).",
+      "Boeing: plans to cut about 5% of its commercial airplane workforce because production is rising more slowly than expected (NYT). It delivered 49 jets in October, down 14% from September (CNBC).",
+      "GLP-1 drug makers: the FDA ordered new label warnings for Ozempic, Wegovy, Zepbound and similar drugs about a rare eye condition that can cause vision loss (BBC, CNBC, MarketWatch).",
+      "Tariffs: the White House said it will press ahead with tariffs despite business warnings about costs, per CNBC."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Commodities & Crypto",
+   "blocks": [
+    {
+     "type": "sub",
+     "text": "Oil"
+    },
+    {
+     "type": "p",
+     "text": "WTI is near $86 and Brent near $92, both down about 0.5% after Brent briefly fell under $90. The NYT reported Brent has fallen more than $20 a barrel since late October, when it traded around $113, as hopes for an end to the Iran war have grown. Analysts quoted by CNBC still see little chance of a lasting peace deal, so the outlook depends on what happens around the Strait of Hormuz."
+    },
+    {
+     "type": "sub",
+     "text": "Gold"
+    },
+    {
+     "type": "p",
+     "text": "Gold is down about 1.8% near $4,040 an ounce. Gold pays no interest, so it tends to lose appeal when real yields and the dollar rise, as both did today."
+    },
+    {
+     "type": "sub",
+     "text": "Crypto"
+    },
+    {
+     "type": "p",
+     "text": "Bitcoin is down about 1.6% near $73,600 and Ether is down about 3.6% near $2,050, trading in line with the risk-off move in tech stocks and the stronger dollar."
+    }
+   ]
+  },
+  {
+   "title": "Today's Calendar",
+   "live": "calendar",
+   "blocks": [
+    {
+     "type": "list",
+     "items": [
+      "CPI (8:30 a.m.): headline rose 0.4% versus the 0.3% forecast, per CNBC. This was the day's main event.",
+      "Waller (9:00 a.m.): his comments added to rate-hike bets, per the WSJ and CNBC.",
+      "10-year note auction (1:00 p.m.): a test of demand for Treasurys with yields near 5%.",
+      "API crude inventories (4:30 p.m.): an early read on U.S. oil supplies before Thursday's EIA report."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Earnings to Watch",
+   "blocks": [
+    {
+     "type": "table",
+     "cols": [
+      "Company",
+      "When",
+      "What to watch"
+     ],
+     "rows": [
+      [
+       "CoreWeave (CRWV)",
+       "After the close today",
+       "Whether results ease or add to concerns about its debt-funded AI data center buildout, which the WSJ and CNBC say is under scrutiny."
+      ],
+      [
+       "SoftBank (9984.T)",
+       "Reported in Tokyo",
+       "A roughly $7 billion quarterly loss tied to a U.S. data center writedown and Intel shares (CNBC). Watch the read-through for AI infrastructure investors."
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Earnings season is winding down. Nasdaq's earnings calendar didn't load today, so this list covers only reports confirmed in news coverage."
+    }
+   ]
+  },
+  {
+   "title": "Week Ahead",
+   "live": "week",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Wednesday is Veterans Day, which the calendar lists as a U.S. bank holiday, so expect lighter bond trading. Thursday brings weekly jobless claims (forecast 194,000), existing home sales, the EIA oil inventory report, a 30-year bond auction and a busy lineup of Fed speakers, including New York Fed President John Williams. Friday's producer price index (headline forecast 0.4%, core 0.3%) is the last major inflation read of the week and will show whether pipeline price pressures match today's CPI. Anthropic's IPO marketing continues ahead of its planned Nov. 19 debut."
+    }
+   ]
+  }
+ ],
+ "bottom_line": "Stocks are modestly lower and yields sharply higher after a hotter-than-expected inflation report and hawkish Fed comments pushed markets to price in a rate hike next month, with Nvidia's CEO investigation adding pressure on tech."
+}
