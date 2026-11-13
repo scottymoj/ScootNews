@@ -1,264 +1,275 @@
 {
- "date": "2026-11-12",
- "written_at": "2026-11-12T12:42:45Z",
- "title": "Nvidia's Leadership Crisis Pulls Nasdaq Futures Lower",
- "dek": "Nasdaq futures are down about 0.8% after reports that Nvidia's board is preparing to remove CEO Jensen Huang, cutting short Wednesday's AI rally. Treasuries reopen after Veterans Day with the 10-year near 5%, as traders still expect a December Fed rate hike.",
- "quick": [
-  "Nvidia fell about 8% after hours and is lower again pre-market after reports that its board is preparing to remove Jensen Huang. As of early Thursday, no decision had been announced.",
-  "Nasdaq futures are down about 0.8% and S&P 500 futures about 0.35%. Dow futures are slightly higher.",
-  "Bond trading resumes after the holiday: the 10-year yield is about 5.00% and the 2-year about 4.76%. Futures still price a December Fed hike as very likely.",
-  "AI cloud stocks are giving back gains: CoreWeave is down about 5% to 6% after jumping nearly 25% Wednesday, and Nebius is lower despite beating revenue forecasts.",
-  "Europe's Stoxx 600 is at a record as money moves away from AI stocks. UK GDP grew 0.7% last quarter.",
-  "Today: jobless claims at 8:30 a.m. ET, six Fed speakers, a 30-year bond auction, and Cisco and Applied Materials after the close."
- ],
- "sections": [
-  {
-   "title": "What's Driving Markets",
-   "kicker": "Top stories",
-   "blocks": [
+  "date": "2026-11-13",
+  "written_at": "2026-11-13T12:42:22Z",
+  "title": "Producer prices and Nvidia's leadership void set Friday's tone",
+  "dek": "US stock futures are little changed and mixed ahead of the 8:30 a.m. producer price report, after a week in which hot consumer inflation pushed the 10-year Treasury yield back above 5% and Nvidia lost its founding CEO. Nvidia is edging higher before the bell, while chip rivals that rallied Thursday give back some gains.",
+  "quick": [
+    "October PPI is due at 8:30 a.m. ET; forecasters expect a 0.4% monthly rise, cooler than September's 1.3%.",
+    "The 10-year Treasury yield closed near 5.12% Thursday, its biggest multi-day jump since 2022, as traders price a December Fed rate hike.",
+    "Nvidia rose about 1% to 2% pre-market after a roughly 4% drop Thursday on Jensen Huang's resignation; CFO Colette Kress is interim CEO.",
+    "Five Fed officials speak today, starting with Boston's Susan Collins at 9:10 a.m. ET.",
+    "The yen touched 160 per dollar, a level where Tokyo intervened over the summer; Japanese officials are again warning against fast moves.",
+    "Bitcoin slipped below $70,000 for the first time since August amid continued ETF outflows."
+  ],
+  "sections": [
     {
-     "type": "point",
-     "head": "Nvidia's board weighs removing Jensen Huang",
-     "what": "The Wall Street Journal reported that Nvidia's board is preparing to remove founder and CEO Jensen Huang. The board met Wednesday evening, and no decision had been announced as of early Thursday. Huang admitted on Sunday to an affair with a woman whom US intelligence has identified as a Chinese asset, and the company hired the law firm Wachtell Lipton to investigate. The New York Times then reported a second relationship, with an Nvidia executive who reports to him. Nvidia shares fell more than 8% after hours. They had closed up 2.9% at $173.73 on Wednesday.",
-     "why": "Nvidia is one of the largest companies in the S&P 500 and Nasdaq, so its drop is the main reason index futures are lower. The selling is spreading to companies tied to Nvidia through supply and financing deals, including CoreWeave, IREN and Coherent. Evercore analysts said Nvidia has no obvious succession plan or clear second-in-command, which adds to the uncertainty.",
-     "watch": "Any board statement could come at any time, and Nvidia reports earnings Tuesday, November 17."
-    },
-    {
-     "type": "point",
-     "head": "Fed hike bets hold as the bond market reopens",
-     "what": "Treasuries trade today for the first time since Tuesday's October CPI report: prices rose 0.4% and core prices 0.3%, both above forecasts. The 2-year yield jumped as much as 20 basis points Tuesday, its biggest one-day move since April 2025. Fed Governor Christopher Waller backs a December hike and said a half-point move should be discussed if core inflation ran near 0.3%. Chicago Fed President Austan Goolsbee called the data 'borderline disturbing' but did not commit to a December vote.",
-     "why": "Higher expected rates weigh most on richly valued growth stocks, gold and crypto, and they support the dollar. CME FedWatch snapshots after the CPI report put the odds of a quarter-point hike at the December 8 to 9 meeting at roughly 85% to 100%. Those snapshots put the odds of a half-point move at about 10% to 15%.",
-     "watch": "Six Fed officials speak today. Listen for whether any of them support a half-point hike."
-    },
-    {
-     "type": "point",
-     "head": "The AI cloud rally reverses one day later",
-     "what": "CoreWeave jumped 24.7% Wednesday to $60.77, its biggest gain since mid-2025, after third-quarter revenue rose 168% to $3.66 billion and it raised its 2026 outlook. Pre-market Thursday it is down about 5% to 6%. Nebius reported before the open: revenue of $980.8 million beat forecasts of about $907.5 million, and it posted an adjusted profit of 30 cents a share, while analysts had expected a loss. Its 2026 revenue guidance of $3 billion to $3.4 billion came in slightly below the consensus midpoint, and the shares fell.",
-     "why": "These companies rent out Nvidia chips and borrow heavily to do it, so they react strongly to Nvidia news and to interest rates. The swings show how much the Nasdaq still depends on confidence in AI spending.",
-     "watch": "Watch whether Wednesday's chip-stock gains hold once trading opens."
-    },
-    {
-     "type": "point",
-     "head": "Washington pressure on chip exports to China grows",
-     "what": "The scandal has revived calls in Congress for tighter limits on advanced AI chip sales to China. CNBC reported that House China committee chairman John Moolenaar wants chip export controls added to the annual defense bill. Senators Elizabeth Warren and Chris Coons asked the administration to preserve its records on Nvidia and China, according to the Wall Street Journal. Megaspeed, a Singapore company at the center of a US probe into restricted Nvidia chips reaching China, issued its first public statement Thursday.",
-     "why": "Tighter export rules would hurt US chipmakers' China sales. WSJ reported that some Chinese chip stocks drew support on bets that local suppliers could win share from Nvidia.",
-     "watch": "President Trump is expected to meet Xi Jinping at the APEC summit in Shenzhen on November 18 to 19, according to CNBC and the South China Morning Post."
-    },
-    {
-     "type": "point",
-     "head": "MSCI will remove Strategy from its indexes",
-     "what": "MSCI published the final list from its November index review, and Strategy, the largest corporate holder of Bitcoin, is being removed from its indexes after the November 30 close. Japan's Metaplanet is also being removed. The change follows MSCI's new rule that excludes companies whose main business is holding assets. Strategy shares fell pre-market, according to the WSJ.",
-     "why": "Funds that track MSCI indexes will no longer need to own Strategy, which could force selling around month-end. The news adds to pressure on Bitcoin, which is already down on Fed-hike bets."
-    }
-   ]
-  },
-  {
-   "title": "Overnight & Global",
-   "kicker": "Asia, Europe, FX",
-   "blocks": [
-    {
-     "type": "sub",
-     "text": "Asia"
-    },
-    {
-     "type": "p",
-     "text": "Most Asian markets fell as the Nvidia news hit chip and AI stocks across the region. Japan's Nikkei fell about 0.7%, Hong Kong's Hang Seng lost about 1.3%, and Shanghai slipped about 0.7%. Taiwan, home to many Nvidia suppliers, had the biggest drop, with the Taiex down 2.6%, according to AP. South Korea's Kospi dipped 0.2%. Foxconn, Nvidia's biggest server assembler, reported continued strong earnings growth on AI hardware demand, but that did not stop the selling across the region."
-    },
-    {
-     "type": "sub",
-     "text": "Europe"
-    },
-    {
-     "type": "p",
-     "text": "Europe is gaining instead. The Stoxx 600 hit another record, up about 0.4%, and Germany's DAX is up about 0.8%. Reuters said Europe has benefited from having few AI stocks, as investors move money out of AI names in the US and Asia. It also cited LSEG data showing European companies on track for about 25% quarterly profit growth, the strongest in four years. Energy companies account for much of that growth. The UK reported third-quarter GDP growth of 0.7%, in line with estimates and its fastest pace in about two and a half years. The FTSE 100 is up about 0.4%."
-    },
-    {
-     "type": "sub",
-     "text": "Currencies"
-    },
-    {
-     "type": "p",
-     "text": "Currency markets are quiet. The dollar index is flat near 102.9, holding its gain from Tuesday's inflation report. The euro is little changed around $1.109. The yen is near 159.7 per dollar. The pound is around $1.327: it stayed below $1.33 even after the strong GDP report. China's yuan is steady near 6.67 per dollar."
-    }
-   ]
-  },
-  {
-   "title": "Market Snapshot",
-   "kicker": "Pre-market",
-   "live": "snapshot",
-   "blocks": [
-    {
-     "type": "p",
-     "text": "Futures show money moving out of tech and into other sectors. Nasdaq futures are down about 0.8% and S&P 500 futures about 0.35%, both pulled lower by Nvidia's weight. Dow futures are up about 0.1%, because the Dow uses share prices rather than company size to weight its members, so Nvidia counts for much less. On Wednesday the S&P 500 rose 1.3% to 7,619, the Nasdaq 1.6% to 25,466 and the Dow 0.5% to 52,486. CoreWeave's results led that rally."
-    },
-    {
-     "type": "p",
-     "text": "The VIX volatility index rose about 0.8 points to 18.3. The main question for the open is whether the selling stays in AI stocks or spreads to the broader market. Europe's record high and slightly higher Dow futures suggest it is mostly limited to AI stocks for now."
-    }
-   ]
-  },
-  {
-   "title": "Rates & the Fed",
-   "kicker": "Bonds",
-   "blocks": [
-    {
-     "type": "p",
-     "text": "Treasuries are trading again after Wednesday's Veterans Day closure, and yields are slightly higher. The 2-year is about 4.76%, up about 4 basis points. The 10-year is about 5.00%, up about 1 basis point. The 30-year is about 5.35%, little changed. The 2-year is most sensitive to Fed expectations, and it has led the move since the CPI report. The gap between the 2-year and 10-year is now about 24 basis points, and the 30-year is about 35 basis points above the 10-year."
-    },
-    {
-     "type": "p",
-     "text": "Fed officials have mostly leaned toward raising rates. Waller backs a December hike and is open to a half-point move. Goolsbee described the October inflation numbers as concerning but did not say how he would vote. According to CME FedWatch snapshots after the CPI report, futures price a December quarter-point hike as very likely, roughly 85% to 100% depending on the time of the reading. They also put about a 10% to 15% chance on a half-point move. Friday's producer price report is the next big data test."
-    },
-    {
-     "type": "p",
-     "text": "The 30-year bond auction at 1 p.m. ET tests demand for long-term debt with yields above 5%. A weak auction could push long-term yields higher."
-    },
-    {
-     "type": "sub",
-     "text": "Fed speakers today (ET)"
-    },
-    {
-     "type": "list",
-     "items": [
-      "8:30 a.m.: Cleveland Fed President Beth Hammack",
-      "10:00 a.m.: Governor Michael Barr",
-      "11:15 a.m.: Chicago Fed President Austan Goolsbee",
-      "1:10 p.m.: San Francisco Fed President Mary Daly",
-      "1:30 p.m.: Kansas City Fed President Jeffrey Schmid",
-      "6:30 p.m.: New York Fed President John Williams"
-     ]
-    }
-   ]
-  },
-  {
-   "title": "Stocks & Sectors",
-   "kicker": "Leaders & laggards",
-   "blocks": [
-    {
-     "type": "sub",
-     "text": "Wednesday's sectors"
-    },
-    {
-     "type": "p",
-     "text": "Technology led Wednesday with a gain of about 3.1%, as chip stocks recovered on CoreWeave's results and Nvidia's rebound. Energy was second, up about 1.8%, as oil rose after Iran denied it was negotiating with Washington. Industrials gained about 1.3%. The weakest sectors were roughly flat: consumer discretionary slipped about 0.05%, while real estate and health care barely moved. With tech the most exposed to Nvidia, it is the sector most likely to give back gains today."
-    },
-    {
-     "type": "sub",
-     "text": "Pre-market movers"
-    },
-    {
-     "type": "list",
-     "items": [
-      "Nvidia: down sharply after reports that its board is preparing to remove CEO Jensen Huang. It fell more than 8% after hours, and pre-market declines have ranged from about 5% to 8%.",
-      "CoreWeave, IREN and Coherent: lower along with Nvidia. CoreWeave is down about 5% to 6% after Wednesday's 25% jump.",
-      "Nebius: lower even though revenue and profit beat forecasts. Its 2026 sales guidance came in slightly below the consensus midpoint. It projected 2027 revenue of $12 billion to $13 billion.",
-      "Strategy: lower after MSCI confirmed it will be removed from MSCI indexes after November 30.",
-      "Tetra Tech: up about 8% to 10% after quarterly earnings of 49 cents a share on $1.34 billion in revenue beat estimates.",
-      "Franco-Nevada: roughly flat after reporting third-quarter earnings of $1.89 a share on revenue of about $549 million."
-     ]
-    }
-   ]
-  },
-  {
-   "title": "Commodities & Crypto",
-   "kicker": "Oil, gold, Bitcoin",
-   "blocks": [
-    {
-     "type": "sub",
-     "text": "Oil"
-    },
-    {
-     "type": "p",
-     "text": "Oil is lower. WTI is near $85.80, down about 0.8%, and Brent is near $92.10, down about 0.7%. Brent rose nearly 3% Wednesday after Iran denied it was negotiating with the US, which reversed some of the early-week drop on hopes for a deal. Reports say Brent is down about 21% since the start of November, as markets have bet that diplomacy could ease disruptions to supplies from the Iran conflict. The weekly government oil inventory report comes at noon ET today, a day late because of the holiday. Analysts expect a drop of about 600,000 barrels."
-    },
-    {
-     "type": "sub",
-     "text": "Gold"
-    },
-    {
-     "type": "p",
-     "text": "Gold is down about 1% to around $3,958 an ounce and has fallen below $4,000. With the 10-year yield near 5% and a Fed hike expected, gold faces more competition from bonds that pay interest. Gold was above $4,100 as recently as Monday."
-    },
-    {
-     "type": "sub",
-     "text": "Crypto"
-    },
-    {
-     "type": "p",
-     "text": "Bitcoin is down about 1.7% to around $73,300, and Ether is down about 1.8% to around $2,040. Higher rate expectations after the CPI report have hurt crypto all week. TradingKey reported that US spot Bitcoin ETFs have lost more than $1.4 billion in outflows since November 5. MSCI's decision to remove Strategy from its indexes adds more pressure on Bitcoin-related stocks."
-    }
-   ]
-  },
-  {
-   "title": "Today's Calendar",
-   "kicker": "Thursday",
-   "live": "calendar",
-   "blocks": [
-    {
-     "type": "list",
-     "items": [
-      "8:30 a.m. ET, weekly jobless claims: forecast 194,000, up from 189,000. Claims have been low, and another low reading would support the case for a Fed hike.",
-      "10:00 a.m., existing home sales: forecast 3.89 million annualized, down from 3.99 million, with mortgage rates rising alongside a 5% 10-year yield.",
-      "Noon, EIA crude inventories: forecast a draw of about 600,000 barrels.",
-      "1:00 p.m., 30-year bond auction: a key test of demand for long-term debt.",
-      "2:00 p.m., October federal budget: forecast deficit of about $299 billion.",
-      "Fed speakers run from 8:30 a.m. through Williams at 6:30 p.m. (full list in Rates & the Fed)."
-     ]
-    }
-   ]
-  },
-  {
-   "title": "Earnings to Watch",
-   "kicker": "Reports",
-   "blocks": [
-    {
-     "type": "table",
-     "cols": [
-      "Company",
-      "When",
-      "What to watch"
-     ],
-     "rows": [
-      [
-       "Cisco",
-       "After the close",
-       "Consensus is about $1.32 a share on $18.12 billion in revenue, within Cisco's $18.0 billion to $18.2 billion guidance. Watch AI networking orders from cloud companies."
-      ],
-      [
-       "Applied Materials",
-       "After the close",
-       "Consensus is about $4.05 a share on about $10.30 billion in revenue, against guidance of $10.25 billion and $4.02. Watch demand for memory-chip equipment, China sales and the fiscal 2027 outlook."
-      ],
-      [
-       "Nebius",
-       "Reported before the open",
-       "Revenue of $980.8 million (up 571%) beat forecasts. 2026 guidance is $3 billion to $3.4 billion. Watch how the stock trades given the Nvidia news."
-      ],
-      [
-       "Tetra Tech",
-       "Reported before the open",
-       "Results beat estimates. The stock is up about 8% to 10% pre-market."
-      ],
-      [
-       "Franco-Nevada",
-       "Reported",
-       "Third-quarter earnings of $1.89 a share. Gold royalty stocks are under pressure as gold falls below $4,000."
+      "title": "What's Driving Markets",
+      "kicker": "Top stories",
+      "blocks": [
+        {
+          "type": "point",
+          "head": "Producer prices are the last big inflation test before the Fed meets",
+          "what": "The Labor Department releases October producer prices at 8:30 a.m. ET. Forecasts compiled for the economic calendar call for a 0.4% monthly rise in headline PPI and 0.3% in core, after September jumps of 1.3% and 0.7%. On Tuesday, consumer prices rose 0.4% in October and core prices 0.3%, both a tenth above forecasts. The BLS could not publish annual rates because it did not collect October 2025 data during last year's government shutdown.",
+          "why": "Another hot reading would back up rate-hike bets and could push Treasury yields and the dollar higher, a headwind for rate-sensitive stocks such as small caps, homebuilders and high-valuation tech. A cooler print could ease some of the pressure that sent bond yields up sharply this week.",
+          "watch": "Components that feed into the Fed's preferred PCE gauge, such as airfares, portfolio management fees and medical services."
+        },
+        {
+          "type": "point",
+          "head": "A December rate hike is now close to fully priced",
+          "what": "After the CPI report, CME FedWatch showed about an 88% chance of a quarter-point increase at the December 9 meeting, up from about 72% a week earlier. Some trading on Tuesday also priced roughly a 1-in-7 chance of a half-point move. Fed Governor Christopher Waller had said a larger hike should be considered if core inflation came in around 0.3%, the figure the BLS then reported, though he said he could still support a quarter-point move. The Fed raised its target range to 3.75% to 4% in September and held in October.",
+          "why": "Higher expected policy rates lift short-term yields and the dollar and raise borrowing costs for companies and households. Strategists quoted by CNBC called the Fed the main medium-term risk for stocks if it tightens more than markets expect.",
+          "watch": "Today's Fed speakers for any comments on the size of a December move."
+        },
+        {
+          "type": "point",
+          "head": "Nvidia begins life without Jensen Huang",
+          "what": "Jensen Huang resigned as Nvidia's CEO on Thursday after reports of two extramarital affairs, one with an employee and one with a woman U.S. officials suspect of spying for China, according to the WSJ, NYT and CNBC. CFO Colette Kress is interim CEO, and Harvey Jones was named board chair. Nvidia shares closed down about 4% on Thursday and rose roughly 1% to 2% pre-market, per Investing.com and other outlets. Huang has agreed to testify before the House, BBC and TechCrunch reported.",
+          "why": "Nvidia is the largest weight in the S&P 500 and the Nasdaq, so its moves drive index-fund returns. Thursday's trading split the AI group: AMD and Broadcom each rose more than 5% on bets they could gain share, while companies that depend on Nvidia for chips or financing came under pressure.",
+          "watch": "Nvidia reports quarterly results on Tuesday, its first report under interim leadership."
+        },
+        {
+          "type": "point",
+          "head": "Huang affair raises the stakes for China chip policy and the Trump-Xi summit",
+          "what": "The scandal has renewed calls in Congress to tighten exports of advanced AI chips to China. Sens. Elizabeth Warren and Chris Coons asked the administration to preserve records about Nvidia's China chip exports, and Sen. Tom Cotton urged Commerce to blacklist Chinese memory maker CXMT, CNBC and the WSJ reported. President Trump and Xi Jinping are expected to meet at the APEC gathering in Shenzhen on November 18 and 19.",
+          "why": "Tighter export rules would weigh on chipmakers with China sales, including Nvidia, AMD and equipment makers, and could raise trade tensions ahead of the summit. Hong Kong and Chinese tech shares fell overnight."
+        },
+        {
+          "type": "point",
+          "head": "Oil rebounds as Trump says the US does not need an Iran deal",
+          "what": "Brent crude settled about 3.3% higher on Thursday near $95.80 a barrel, and WTI rose about 2.6% to around $88.70, after President Trump posted that Washington does not need a deal with Iran, according to CNBC and Bloomberg via Rigzone. Reuters reported the US blockade on Iranian oil shipments and sanctions would stay in place. Houthi claims of attacks on Saudi energy facilities also added to supply worries.",
+          "why": "Higher oil feeds directly into inflation expectations and bond yields, which matters more than usual with a Fed hike on the table. Energy was the only S&P 500 sector to gain on Thursday.",
+          "watch": "Oil had fallen sharply last week; Reuters noted Brent is still on track for a weekly loss."
+        },
+        {
+          "type": "point",
+          "head": "Earnings: Cisco, Applied Materials and Cerebras report AI-driven growth",
+          "what": "Cisco beat estimates with adjusted earnings of $1.40 a share on $18.52 billion in revenue and raised its target for AI infrastructure revenue from large cloud customers to $9 billion for the fiscal year, from $7.5 billion. Applied Materials reported revenue of about $10.4 billion, up 53% from a year earlier, and adjusted earnings above forecasts. Cerebras jumped about 17% after hours on stronger revenue and a new Microsoft deal, CNBC reported.",
+          "why": "The reports point to continued AI spending even as Nvidia's leadership turmoil raises questions about the sector, which could steady chip and network-equipment stocks."
+        }
       ]
-     ]
-    }
-   ]
-  },
-  {
-   "title": "Week Ahead",
-   "kicker": "Rest of week",
-   "live": "week",
-   "blocks": [
+    },
     {
-     "type": "p",
-     "text": "Friday brings October producer prices at 8:30 a.m. ET. Forecasts call for headline PPI up 0.4% and core up 0.3%, after much bigger gains of 1.3% and 0.7% in September. A hot reading would add to bets on a half-point December hike. Fed officials Collins, Logan, Bowman, Daly and Jefferson also speak Friday. Beyond this week, Nvidia's earnings next Tuesday, November 17, could matter even more than usual depending on the board's decision. President Trump's expected meeting with Xi Jinping at APEC in Shenzhen on November 18 to 19 will show whether chip export rules come up after the scandal. The Fed's next decision is December 9."
+      "title": "Overnight & Global",
+      "kicker": "Asia, Europe, FX",
+      "blocks": [
+        {
+          "type": "sub",
+          "text": "Asia"
+        },
+        {
+          "type": "p",
+          "text": "Asian markets were mixed and mostly lower. Japan's Nikkei 225 closed up about 0.5% near 61,140, helped by chip stocks after a sharp selloff earlier in the week. South Korea's Kospi fell about 1%, Shanghai's Composite slipped about 0.5%, and Hong Kong's Hang Seng lost more than 1%, with Chinese tech under pressure from the Nvidia fallout and talk of tighter chip rules. SoftBank, a major OpenAI investor, fell about 5%, the AP reported."
+        },
+        {
+          "type": "sub",
+          "text": "Europe"
+        },
+        {
+          "type": "p",
+          "text": "European stocks opened slightly lower. The Stoxx 600 fell about 0.2%, London's FTSE 100 lost about 0.2%, and the CAC 40 and DAX were each down about 0.3% early, according to the AP and Euronews. Chip-equipment makers led the decline, with ASML and ASM International down about 1.5%. On Thursday, the UK reported third-quarter growth of 0.7%, in line with estimates."
+        },
+        {
+          "type": "sub",
+          "text": "Currencies"
+        },
+        {
+          "type": "p",
+          "text": "The dollar index is little changed near 103.2. The yen is the main story: the dollar touched about 160 yen on Thursday and again early Friday, the first time above that level since September. Finance Minister Satsuki Katayama warned against one-sided moves, and top currency official Atsushi Mimura said the yen had moved too fast. Japan and the US jointly intervened in late July and early August, when Tokyo spent a record 15.4 trillion yen. The euro trades near $1.106, the pound near $1.322, and the dollar near 6.67 yuan, all within a narrow range."
+        },
+        {
+          "type": "p",
+          "text": "Why it matters: a stronger dollar on rate-hike bets is pushing on the yen, and any intervention by Tokyo could cause sharp moves in the yen and spill over into Japanese stocks and global bond markets."
+        }
+      ]
+    },
+    {
+      "title": "Market Snapshot",
+      "kicker": "Futures",
+      "live": "snapshot",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "US stock futures are mixed and close to flat before the PPI report. S&P 500 and Dow futures are up slightly, while Nasdaq 100 futures are a bit weaker as AMD and Broadcom give back part of Thursday's gains and Nvidia rebounds modestly. Thursday's session ended with the S&P 500 down 0.35% at 7,592, the Dow down 0.36% and the Nasdaq Composite down 0.39%, after the S&P recovered from a sharper early drop."
+        },
+        {
+          "type": "p",
+          "text": "Small caps were hit hardest Thursday: the Russell 2000 fell about 1.7%, consistent with rising yields hurting smaller, more debt-reliant companies. The VIX volatility index rose about 7% to 18.7, elevated but below panic levels. The 8:30 a.m. data will likely set the direction for the open."
+        }
+      ]
+    },
+    {
+      "title": "Rates & the Fed",
+      "kicker": "Bonds",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Treasury yields jumped this week as bond markets reopened after Veterans Day. On Thursday the 2-year yield rose about 15 basis points to around 4.86%, the 10-year rose about 13 basis points to roughly 5.12%, back above 5%, and the 30-year rose about 10 basis points to near 5.45%, CNBC reported. MarketWatch said the 2-year's four-session rise was the largest since June 2022. Yields are little changed this morning."
+        },
+        {
+          "type": "p",
+          "text": "The curve remains upward sloping: the 10-year sits about 26 basis points above the 2-year, and the 30-year about 59 basis points above. With the Fed's range at 3.75% to 4%, the 2-year yield well above the funds rate shows traders expect more hikes. Fed funds futures, as tracked by CME FedWatch, show a December quarter-point hike as highly likely, with a smaller chance of a half point."
+        },
+        {
+          "type": "p",
+          "text": "Waller's openness to a larger move after the CPI report was the most notable signal from officials this week. Separately, the Fed said it will hold seven policy votes in 2027 and use its October 2027 meeting for discussion only, with no rate vote or statement, CNBC reported."
+        },
+        {
+          "type": "sub",
+          "text": "Fed speakers today (ET)"
+        },
+        {
+          "type": "list",
+          "items": [
+            "9:10 a.m.: Boston Fed President Susan Collins",
+            "9:40 a.m.: Dallas Fed President Lorie Logan",
+            "10:50 a.m.: Vice Chair for Supervision Michelle Bowman",
+            "12:00 p.m.: San Francisco Fed President Mary Daly",
+            "7:00 p.m.: Vice Chair Philip Jefferson"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Stocks & Sectors",
+      "kicker": "Equities",
+      "blocks": [
+        {
+          "type": "sub",
+          "text": "Thursday's sectors"
+        },
+        {
+          "type": "p",
+          "text": "Energy was the only S&P 500 sector to rise Thursday, up about 1.5%, as oil rebounded. Materials led the declines, down about 1.3%, as gold and other metals fell while rising yields and a firmer dollar weighed. Communication services and industrials each fell about 0.9%, and financials lost about 0.7%. Technology fell a more modest 0.3% because gains in AMD and Broadcom offset most of Nvidia's drop. Utilities were roughly flat, holding up better than other rate-sensitive groups."
+        },
+        {
+          "type": "sub",
+          "text": "Pre-market movers"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Nvidia: up roughly 1% to 2% after Thursday's roughly 4% drop on the CEO change; analysts have been revisiting ratings.",
+            "AMD and Broadcom: each down roughly 2% to 3% after gaining more than 5% Thursday.",
+            "Cerebras: up about 16% to 18% on stronger-than-expected revenue and a Microsoft deal; outlets noted a wider loss and some contract delays.",
+            "Cisco: mixed in early trading after beating forecasts and raising its AI revenue target.",
+            "Applied Materials: roughly flat after revenue grew 53% and results came in above forecasts.",
+            "Nebius: fell about 16% Thursday after raising its spending plans and giving a weak outlook; AI cloud providers remain sensitive to financing questions."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Commodities & Crypto",
+      "kicker": "Oil, gold, bitcoin",
+      "blocks": [
+        {
+          "type": "sub",
+          "text": "Oil"
+        },
+        {
+          "type": "p",
+          "text": "Oil is easing slightly this morning after Thursday's jump, with WTI near $88 and Brent near $95.50. Thursday's rally followed the president's Iran comments and Houthi attack claims, partly offset by a 4.7 million barrel rise in US crude stockpiles reported by the EIA. Brent is still headed for a weekly loss after a 16% drop last week, Reuters reported."
+        },
+        {
+          "type": "sub",
+          "text": "Gold"
+        },
+        {
+          "type": "p",
+          "text": "Gold is up about 1% near $3,920 an ounce after hitting a 13-month low near $3,850 on Thursday as yields rose, Kitco and other outlets reported. It remains well below its 2026 record. Higher real yields and a firm dollar have weighed on gold, since it pays no interest."
+        },
+        {
+          "type": "sub",
+          "text": "Crypto"
+        },
+        {
+          "type": "p",
+          "text": "Bitcoin fell below $70,000 for the first time since August and traded near $68,000 early Friday, down about 4% over 24 hours. Ether fell about 5% to around $1,915. US spot bitcoin ETFs have seen about $1.5 billion of withdrawals since November 5, according to Farside Investors data. Pressure has continued since Binance's roughly $6.4 billion hack in late October, which the FBI attributed to North Korea-linked hackers, along with rising rate expectations and leveraged-position liquidations."
+        }
+      ]
+    },
+    {
+      "title": "Today's Calendar",
+      "kicker": "Data",
+      "live": "calendar",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "8:30 a.m. ET, October PPI: the main release. Consensus is 0.4% for the headline and 0.3% for core, down from 1.3% and 0.7% in September. A reading at or above forecast would support December hike pricing.",
+            "Fed speakers throughout the day (see Rates & the Fed): listen for views on a quarter-point versus a half-point hike.",
+            "10:15 a.m. ET, quarterly mortgage delinquency data: last at 4.37%; a check on household strain as mortgage rates rise.",
+            "10:30 a.m. ET, EIA natural gas storage: delayed a day by the holiday; forecast is a 65 billion cubic foot build, versus 77 billion last week."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Earnings to Watch",
+      "kicker": "Reports",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Friday's earnings calendar is light. The largest companies on it are Japanese banks reporting in Tokyo hours. The big tech reports came after Thursday's close and are covered above."
+        },
+        {
+          "type": "table",
+          "cols": [
+            "Company",
+            "When",
+            "What to watch"
+          ],
+          "rows": [
+            [
+              "Sumitomo Mitsui Financial (SMFG)",
+              "Before the open (Tokyo hours)",
+              "Lending margins as the Bank of Japan weighs a rate hike; consensus about $0.24 per ADR share"
+            ],
+            [
+              "Mizuho Financial (MFG)",
+              "Before the open (Tokyo hours)",
+              "Net interest income and any change to full-year profit targets; consensus about $0.21 per ADR share"
+            ],
+            [
+              "Sigma Lithium (SGML)",
+              "Before the open",
+              "Production volumes and lithium pricing as a read on EV battery demand"
+            ],
+            [
+              "Owlet (OWLT)",
+              "Before the open",
+              "Revenue growth and path to profitability; consensus loss of $0.07 a share"
+            ],
+            [
+              "Twenty One Capital (XXI)",
+              "Before the open",
+              "Bitcoin-holding company; results tied to bitcoin's slide this month"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Week Ahead",
+      "kicker": "Next week",
+      "live": "week",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Today ends the week, and next week is busy. Nvidia reports on Tuesday, November 17, its first quarter under interim CEO Colette Kress. Analysts polled by LSEG expect revenue of about $108.9 billion, up about 91% from a year earlier, and investors will be listening for any change in demand or in China-related guidance. President Trump and Xi Jinping are expected to meet at the APEC summit in Shenzhen on November 18 and 19, with trade, Taiwan and chip exports likely on the agenda. Anthropic's initial public offering is scheduled for November 19, according to Reuters. Minutes of the Fed's October meeting and more retail earnings, including Walmart, are also expected. All of this comes with the 10-year yield above 5% and a December Fed hike largely priced in, so data and company guidance could move yields and stocks more than usual."
+        }
+      ]
     }
-   ]
-  }
- ],
- "bottom_line": "The morning is defined by one company: Nvidia's leadership uncertainty is pulling the Nasdaq lower while the Dow and Europe hold up. Treasury yields near 5% and expectations of a Fed hike leave little support for tech if the selling continues."
+  ],
+  "bottom_line": "The setup is cautious but steady: futures are flat, bond yields are holding this week's sharp gains, and Nvidia is stabilizing after its CEO's exit. The 8:30 a.m. producer price report and five Fed speakers will likely set the direction for rates and stocks heading into next week's Nvidia earnings and the Trump-Xi summit."
 }
