@@ -1,15 +1,15 @@
 {
-  "date": "2026-11-16",
-  "written_at": "2026-11-16T12:43:39Z",
-  "title": "Tech futures slip as Nvidia earnings, Anthropic IPO and Warsh loom",
-  "dek": "Nasdaq futures are pointing lower as the chip selloff that hit Wall Street on Friday spread through Asia overnight. Investors face a packed week: Fed Chair Warsh speaks at noon, Nvidia reports Tuesday and Anthropic's IPO is expected to price Wednesday, while markets are close to fully pricing a December rate hike.",
+  "date": "2026-11-17",
+  "written_at": "2026-11-17T12:42:41Z",
+  "title": "Futures dip as Nvidia's first post-Huang earnings report arrives",
+  "dek": "US stock futures are modestly lower after a third straight losing day that cut the S&P 500 by nearly 2% on Monday. Nvidia reports after the close, October retail sales land at 8:30 a.m. ET, and four Fed officials speak as markets price in a December rate hike.",
   "quick": [
-    "Nasdaq 100 futures were down about 1% and S&P 500 futures about 0.4% in early trading, according to Reuters; Dow futures were roughly flat.",
-    "Nvidia is down roughly 2% to 3.5% pre-market after its sixth straight weekly loss. It reports Tuesday after the close, its first report since Jensen Huang resigned as CEO.",
-    "Fed Chair Kevin Warsh speaks at noon ET. Fed funds futures put the odds of a December rate hike at roughly 90% or more.",
-    "Asia fell on chip stocks: the Nikkei lost 2.4% after Japan's economy unexpectedly shrank, and China's October data missed forecasts across the board.",
-    "Oil is holding near $96 Brent after Iran struck a US base in Bahrain on Sunday; gold touched its lowest level since October 2025 and Bitcoin hit a four-month low over the weekend.",
-    "Anthropic's IPO, at $70 to $78 a share, is expected to price Wednesday and start trading Thursday, according to reports."
+    "S&P 500 futures are down about 0.3% and Dow futures about 0.4%, after Monday's 1.96% drop in the S&P 500 and 2.56% slide in the Nasdaq.",
+    "Nvidia reports after the bell, its first quarter under interim CEO Colette Kress. Analysts polled by LSEG expect revenue of about $108.9 billion.",
+    "A new Commerce Department rule requiring licenses for AI chips that could serve Chinese firms remotely hit chip stocks Monday and Asian tech overnight.",
+    "Home Depot and Disney both beat estimates this morning; Home Depot also named CFO Richard McPhail as its next CEO.",
+    "October retail sales are due at 8:30 a.m. ET. Forecasts call for a 0.1% to 0.2% rise after September's 0.8% jump.",
+    "The 10-year Treasury yield is near 5.10% and the dollar index touched a 19-month high overnight on December rate-hike bets."
   ],
   "sections": [
     {
@@ -18,44 +18,43 @@
       "blocks": [
         {
           "type": "point",
-          "head": "Nvidia heads into its most closely watched report without Jensen Huang",
-          "what": "Nvidia reports fiscal third-quarter results Tuesday after the close, its first since Huang resigned as CEO and longtime finance chief Colette Kress became interim CEO. Analysts expect earnings of about $2.48 a share on revenue of about $109.2 billion, against company guidance of roughly $108 billion. The stock fell 13% last week, its sixth straight weekly decline, closing Friday at $162.85, and its market value dropped below $4 trillion. Over the weekend, Treasury Secretary Scott Bessent urged the company to pick an outside CEO, while two investors holding about $2.1 billion of stock asked the board to consider bringing Huang back, CNBC and the WSJ reported.",
-          "why": "Nvidia is the largest weight in the S&P 500 and the Nasdaq, so its results and guidance move the whole index, chip suppliers in Asia, and AI-linked stocks from AMD and Broadcom to power and data-center names. Options markets are pricing a swing of roughly 8% in either direction after the report, according to options data cited by financial outlets.",
-          "watch": "Leadership commentary on Tuesday's call, fiscal 2028 growth targets, China export rules, and any update on the board's CEO search."
+          "head": "Nvidia reports tonight, its first results since Jensen Huang resigned",
+          "what": "Nvidia releases fiscal third-quarter results after the close, less than a week after founder Jensen Huang stepped down as CEO. The Wall Street Journal reports he resigned over a relationship with a woman US officials suspect was working for Chinese intelligence; CFO Colette Kress is interim CEO. Analysts expect revenue of about $108.9 billion, up roughly 91% from a year ago, according to LSEG data cited by Reuters, against company guidance of about $108 billion, with an adjusted gross margin near 74%. Reuters says the company has shed about $410 billion in market value since the resignation, and the stock edged lower again pre-market.",
+          "why": "Nvidia is the largest weight in the S&P 500 and the bellwether for AI spending, so its outlook will drive chipmakers, cloud and data-center suppliers, utilities tied to power demand, and the Nasdaq broadly. Previews from several outlets say guidance for next quarter, China exposure, and any leadership or governance update will matter more than the third-quarter numbers themselves.",
+          "watch": "Fourth-quarter revenue and margin guidance, commentary on the new export rule, and whether the board says anything about the CEO search. The WSJ and CNBC report the board is not considering reinstating Huang, despite a public campaign by some tech figures."
         },
         {
           "type": "point",
-          "head": "Fed rate hike in December now close to fully priced",
-          "what": "Hotter-than-expected October inflation data shifted rate expectations last week. Consumer prices rose 0.4% in October after 0.6% in September, and producer prices rose 0.3% on the month and 6.5% from a year earlier, with core producer prices up 0.5%, CNBC reported. CME FedWatch data cited by TheStreet put the chance of a quarter-point hike at the December 9 meeting at about 93%, and Saxo said futures price roughly 30 basis points of tightening for that meeting. Kansas City Fed President Jeffrey Schmid said Sunday that inflation is uncomfortably above the 2% target and moving the wrong way, though he did not call for more hikes.",
-          "why": "Higher rate expectations keep Treasury yields above 5% on the 10-year, which weighs on high-valuation growth stocks, housing-related shares and non-yielding assets such as gold and crypto, and supports the dollar.",
-          "watch": "Warsh's noon remarks, five other Fed speakers today, and Wednesday's FOMC minutes."
+          "head": "US tightens rules on China's remote access to AI chips",
+          "what": "The Commerce Department issued an interim rule on Monday requiring a license to ship advanced AI chips to any data center worldwide that gives companies headquartered in China, Macau or other arms-embargoed countries access to large amounts of computing power, according to TechCrunch and Bloomberg. Shipments to Singapore, Malaysia, Thailand, Indonesia and Brazil also now need a license, with a carve-out for US-headquartered companies. Existing operators get 90 days to obtain licenses. Separately, the Commerce and Justice departments said they have been investigating Nvidia partner Megaspeed since 2024.",
+          "why": "The rule cuts into a fast-growing business of renting AI computing to Chinese firms through third countries. Nvidia fell more than 4% Monday and the Philadelphia semiconductor index dropped as much as 5.5% intraday, per Bloomberg; the selling spread to Asian and European chip stocks overnight.",
+          "watch": "How Nvidia quantifies the impact tonight, and any response from Beijing as President Trump heads to meetings with Xi Jinping this week."
         },
         {
           "type": "point",
-          "head": "Anthropic's IPO, possibly the largest ever, is set for this week",
-          "what": "Anthropic set a price range of $70 to $78 a share for 825 million shares, which would raise up to about $64.4 billion, according to its updated SEC filing. Seven tech companies, including Nvidia, are separately buying about $26 billion of stock in a private placement, bringing the total to as much as about $90 billion. Reports from CNBC and others say pricing is expected Wednesday and trading on the Nasdaq under the ticker ANT on Thursday, though the company has not publicly confirmed the dates.",
-          "why": "Demand for the deal is being read as a test of investor appetite for AI after a month-long selloff in AI stocks.",
-          "watch": "Final pricing relative to the range, and first-day trading on Thursday."
+          "head": "Markets price a December Fed hike; four officials speak today",
+          "what": "Rate-futures markets now lean heavily toward a quarter-point hike at the Fed's December 9 decision after hot October inflation and a strong jobs report. Recent estimates of the odds range from about 80%, per ING, to near certainty, per CME FedWatch figures cited late last week. Governor Christopher Waller has said a half-point move could be warranted if core inflation keeps running at 0.3% a month or more, according to Newsquawk. Fed Chair Kevin Warsh on Monday focused on AI's economic effects and gave no hint on rates, the WSJ reported.",
+          "why": "Higher rate expectations have pushed the 10-year yield above 5%, lifted the dollar and pressured gold, crypto and richly valued growth stocks. Any talk of a half-point hike today would likely push short-term yields and the dollar higher.",
+          "watch": "Waller at 9:10 a.m. ET is the key speaker; Musalem, Hammack and Williams also appear. FOMC minutes come Wednesday afternoon."
         },
         {
           "type": "point",
-          "head": "Chip selloff spreads to Asia",
-          "what": "Semiconductor stocks led Friday's US decline: AMD fell about 9%, Broadcom and Marvell each dropped close to 5%, and the Nasdaq lost 0.9% even as the Dow edged up. The selling carried into Asia on Monday, where Taiwan and South Korea led losses and SK Hynix fell more than 6%. Despite Friday's drop, all three major US indexes finished last week up more than 2%.",
-          "why": "Tech is the largest sector in the S&P 500, so continued chip weakness pulls the index lower even when most other sectors rise, as happened Friday.",
-          "watch": "Whether chip stocks stabilize before Nvidia's report."
+          "head": "Retail sales and Home Depot give a read on the consumer",
+          "what": "October retail sales are due at 8:30 a.m. ET. Economists polled by Reuters expect a 0.2% rise after September's 0.8% gain; the consensus in the calendar below shows 0.1%, with sales excluding autos seen up 0.4%. Before the open, Home Depot reported adjusted earnings of $3.86 a share on revenue of $43.4 billion, up 4.9%, both ahead of estimates, with comparable sales up 2.2%. It now expects adjusted EPS to grow about 2% this year and named CFO Richard McPhail as its next CEO, per CNBC; shares slipped about 1% pre-market.",
+          "why": "A firm spending number would reinforce the case for a Fed hike and could push yields up; a weak one could ease rate pressure but raise growth worries. Retailers and consumer discretionary stocks are most exposed. Home Depot's report showed fewer transactions but higher average spending, which analysts link to high mortgage rates holding back housing activity.",
+          "watch": "Industrial production at 9:15 a.m. and the NAHB homebuilder index at 10 a.m."
         },
         {
           "type": "point",
-          "head": "Middle East: Iran strikes US base in Bahrain",
-          "what": "Iran launched drone attacks on a US military base in Bahrain on Sunday, its second attack on Bahrain in days, according to CNBC, the NYT and the Guardian. Bahrain said it intercepted strikes. Brent crude briefly fell to about $94.30 before recovering to around $96.60, according to Saxo, as the International Energy Agency reported that global supply now exceeds demand.",
-          "why": "Oil prices feed directly into inflation and therefore Fed expectations; energy stocks gained about 1% on Friday. So far, signs of oversupply have limited the price response to new attacks.",
-          "watch": "Any disruption to Gulf shipping and whether Middle East talks are on the agenda at the APEC summit in Shenzhen on November 18 and 19, where China has confirmed plans for a meeting involving Xi, Trump and Putin."
+          "head": "Disney beats estimates, raises dividend by a third",
+          "what": "Disney reported fiscal fourth-quarter revenue up 16% to about $25.9 billion and adjusted EPS of $1.77, above the $1.67 analysts expected, according to the company's filing and Zacks. The quarter included an extra week, which Disney estimated added about 17 cents to full-year adjusted EPS. It raised its dividend 33%, targeted $3 billion in annual cost savings by fiscal 2029, and guided to double-digit adjusted EPS growth in fiscal 2027.",
+          "why": "Disney is a large holding in communication services, one of Monday's weakest sectors. Streaming revenue rose 19% and parks income grew 20%, a read-through for media and travel spending."
         },
         {
           "type": "point",
-          "head": "Weak data from China and Japan",
-          "what": "China's industrial output grew 4.8% from a year earlier in October, below the 5.3% expected in a Reuters poll, and retail sales rose only 0.4% against a 0.8% forecast. Fixed-asset investment fell 8.1% in January through October, with property investment down 21.6%. Japan's economy shrank at a 0.1% annualized rate in the third quarter, its first contraction in four quarters, versus forecasts for 0.3% growth, as higher energy costs weighed on consumers.",
-          "why": "Slower growth in the world's second- and fourth-largest economies weighs on commodity demand, including copper, and on US multinationals that sell into Asia."
+          "head": "Geopolitics: Hormuz attacks, Kerch Bridge, Trump's Asia trip",
+          "what": "CNBC reports Iran escalated threats as a third US aircraft carrier arrived in the Middle East, and at least one tanker was struck in the Strait of Hormuz over the weekend. Ukraine damaged the Kerch Bridge linking Russia to occupied Crimea, forcing it to close, according to the NYT, BBC and Guardian. President Trump began a 48-hour Asia trip in the Philippines and is scheduled to meet Xi Jinping and Vladimir Putin in Shenzhen, the NYT reports.",
+          "why": "So far oil has looked past the Hormuz incidents: Brent fell 3.6% Monday as Middle East exports recover. Any sign of a trade deal or new friction at the Xi meeting could move chip stocks, the yuan and Asian markets."
         }
       ]
     },
@@ -69,7 +68,7 @@
         },
         {
           "type": "p",
-          "text": "Japan's Nikkei 225 fell 2.4% to 59,662 as chip-related stocks such as Kioxia and Murata dropped more than 5% and the weak GDP report added pressure. Taiwan and South Korea led regional losses on the chip selloff. China's Shanghai Composite slipped 0.9% after the disappointing October data, while Hong Kong's Hang Seng bucked the trend with a gain of about 0.5%."
+          "text": "Asian markets fell for a second day as the US chip rule and Nvidia's turmoil weighed on technology names. Japan's Nikkei 225 dropped 1.3% and Hong Kong's Hang Seng lost 1.0%, while the Shanghai Composite slipped 0.5%. Chip-heavy South Korea and Taiwan saw bigger losses, according to regional market reports, with Samsung Electronics, SoftBank and Kioxia among the decliners. Japan's economy is also on investors' minds after data on Monday showed an unexpected third-quarter contraction, which CNBC tied to higher energy costs after household subsidies expired."
         },
         {
           "type": "sub",
@@ -77,7 +76,7 @@
         },
         {
           "type": "p",
-          "text": "European stocks are little changed. The Stoxx 600 was near 665 in early trading, just above Friday's record close, with tech shares lagging ahead of Nvidia and miners down as copper hit a four-month low, according to Reuters. Germany's DAX and Britain's FTSE 100 were roughly flat to slightly higher."
+          "text": "European stocks are lower across the board: the Stoxx 600 is down about 0.7%, Germany's DAX 0.8% and London's FTSE 100 0.7%. Chip-equipment makers such as ASML fell on the US export rule, according to market reports. Deutsche Bank shares dropped after a group of media outlets published stories based on about 15 million leaked documents alleging control failures, including ties to Russian clients; MarketWatch said as much as 3.8 billion euros of its market value was erased at one point. Germany's ZEW sentiment survey and the European Commission's autumn forecasts are due today."
         },
         {
           "type": "sub",
@@ -85,7 +84,7 @@
         },
         {
           "type": "p",
-          "text": "Currency moves were small as of the early-morning quotes. The dollar index was little changed near 103.5, holding up on expectations of a Fed hike. The euro was around $1.10 and the pound around $1.32, both slightly lower. The yen is weak, with the dollar near 159.5 yen, close to the 160 level, after Japan's GDP contraction. China's yuan was steady at about 6.67 per dollar."
+          "text": "The dollar index is little changed near 103.6 after touching a 19-month high around 103.7 overnight, according to FXStreet and other reports, as December hike bets widen the gap between US and overseas rates. The euro is at about $1.099, near its lowest since spring 2025. The yen is around 159 per dollar, just shy of the 160 level traders watch for possible Japanese intervention. The pound is steady near $1.319, and China's yuan is little changed around 6.67 per dollar."
         }
       ]
     },
@@ -96,11 +95,11 @@
       "blocks": [
         {
           "type": "p",
-          "text": "US stock futures point to a lower open led by tech. Reuters reported Nasdaq 100 futures down about 1% and S&P 500 futures down about 0.4% in early trading, with Dow futures near flat. That repeats Friday's pattern, when the S&P 500 fell 0.4% to 7,561.67 and the Nasdaq fell 0.9% to 25,136.27 while the Dow rose 0.1% to 52,347.55."
+          "text": "As of the latest data, S&P 500 and Nasdaq 100 futures are each down about 0.3% and Dow futures about 0.4%, a smaller decline than Monday's cash session. On Monday the S&P 500 fell 1.96% to 7,416.59, its third straight loss and, per Reuters, its biggest three-day drop since June. The Nasdaq Composite lost 2.56% and the Russell 2000 1.73%. The VIX fear gauge rose to about 23.5, a level that signals elevated but not extreme stress."
         },
         {
           "type": "p",
-          "text": "The VIX volatility index ended Friday just above 20, a sign investors expect larger swings than usual this week. Options pricing cited by Saxo implies an S&P 500 move of about 0.9% today and about 1.8% through Friday, with Nvidia's report Tuesday as the main event."
+          "text": "The tone is cautious rather than panicked: traders appear to be waiting for retail sales, Waller's remarks and, above all, Nvidia tonight. Treasury yields are slightly lower this morning, offering a little relief to stocks, while the dollar holds near its highs."
         }
       ]
     },
@@ -110,42 +109,34 @@
       "blocks": [
         {
           "type": "p",
-          "text": "Treasury yields eased slightly overnight after big increases last week. As of early-morning quotes, the 2-year yield was about 4.86%, the 10-year about 5.14% and the 30-year about 5.47%, each down 1 to 2 basis points. On Friday the 10-year rose about 4 basis points and touched 5.17% intraday after the producer price report, CNBC reported."
+          "text": "Treasury yields are edging lower for a second day as investors seek safety from the tech selloff. The 2-year is near 4.79%, down about 3 basis points; the 10-year is near 5.10%, down about 2; and the 30-year is near 5.45%. The 10-year moved back above 5% last Thursday after hot inflation data. The curve slopes upward: the 10-year yields about 31 basis points more than the 2-year, meaning investors want extra pay to hold longer-term debt amid inflation and heavy government borrowing."
         },
         {
           "type": "p",
-          "text": "The curve is upward-sloping: the 10-year yields about 28 basis points more than the 2-year, and the 30-year about 33 basis points more than the 10-year. That means investors are still demanding extra pay for holding long-term bonds while they price a near-term hike."
-        },
-        {
-          "type": "p",
-          "text": "Fed officials have been hawkish. Schmid of the Kansas City Fed said inflation is moving in the wrong direction. Governor Christopher Waller has left the door open to a larger half-point hike, according to market reports, though futures put the odds of that at about 10% or less. CME FedWatch data put the chance of a December hike at about 90% or more. Some strategists, including at TD Securities, said 10-year yields above 5% are worth buying on weakness, the WSJ reported."
+          "text": "Fed officials have signaled a willingness to raise rates further. Waller has said he would back at least a quarter-point hike in December and possibly a half point if core inflation stays hot. Cleveland Fed President Beth Hammack has said she prefers smaller, steady increases. St. Louis Fed President Alberto Musalem called for more hikes in late October. Chair Warsh avoided rate signals on Monday. ING says markets imply about 90 basis points of tightening over the next 12 months."
         },
         {
           "type": "sub",
-          "text": "Today's Fed speakers (ET)"
+          "text": "Fed speakers today (ET)"
         },
         {
           "type": "list",
           "items": [
-            "Michael Barr, Fed governor: 5:00 a.m. (already spoken)",
-            "John Williams, New York Fed president: 9:05 a.m.",
-            "Kevin Warsh, Fed chair: 12:00 p.m., opening remarks at a Fed conference on productivity and jobs; markets want a signal on December",
-            "Beth Hammack, Cleveland Fed president: 2:15 p.m."
+            "7:30 a.m.: St. Louis Fed President Alberto Musalem",
+            "9:10 a.m.: Governor Christopher Waller",
+            "9:30 a.m.: Cleveland Fed President Beth Hammack",
+            "2:25 p.m.: New York Fed President John Williams"
           ]
         }
       ]
     },
     {
       "title": "Stocks & Sectors",
-      "kicker": "Friday's session and pre-market",
+      "kicker": "Monday's session and pre-market",
       "blocks": [
         {
           "type": "p",
-          "text": "Friday's sector map showed a rotation away from tech. Technology was the worst S&P 500 sector, down about 2%, on the chip selloff. Consumer discretionary, industrials and materials also slipped. Defensive and value sectors led: consumer staples rose 1.4%, communication services about 1%, energy about 1% with oil, and financials 0.8%. Health care and utilities each gained about 0.5%."
-        },
-        {
-          "type": "p",
-          "text": "That pattern of money moving from AI and chip stocks into staples, health care and banks has shown up repeatedly during the past month's AI selloff."
+          "text": "Monday was a broad defensive rotation. Technology was the worst S&P 500 sector, down 3.4%, as Nvidia and other chipmakers fell on the export rule and leadership worries. Energy lost 2.0% as oil dropped, and industrials (-1.9%), communication services (-1.8%) and consumer discretionary (-1.5%) also lagged. Only consumer staples (+0.3%) and utilities (+0.2%) rose. Financials fell 0.9%, with banks also hit by reports of app outages at several large banks; JPMorgan blamed a software bug and said it was not cyber-related, according to CNBC."
         },
         {
           "type": "sub",
@@ -154,9 +145,10 @@
         {
           "type": "list",
           "items": [
-            "Nvidia: down roughly 2% to 3.5% in different pre-market readings, extending last week's 13% drop ahead of Tuesday's report and amid the debate over its next CEO.",
-            "Baidu: down about 1% pre-market after third-quarter results that Benzinga described as mixed against estimates.",
-            "Chipmakers broadly: AMD, Broadcom, Marvell and other semiconductor stocks are in focus after Friday's losses and the overnight selling in Taiwan and South Korea."
+            "Nvidia: slightly lower ahead of tonight's results after a roughly 4% drop Monday.",
+            "Home Depot: down about 1% despite beating estimates, after naming CFO Richard McPhail as CEO effective November 23.",
+            "Disney: in focus after beating revenue and profit estimates and raising its dividend 33%.",
+            "JD.com: in focus after reporting third-quarter revenue up 3.5% to 309.6 billion yuan, according to its filing; reports differ on how results compared with estimates."
           ]
         }
       ]
@@ -171,7 +163,7 @@
         },
         {
           "type": "p",
-          "text": "Brent was around $96 and US crude around $88 to $89 in early trading, roughly flat after swinging between losses and gains. Iran's attack on a US base in Bahrain adds supply risk, but reports from the IEA that global supply now exceeds demand for the first time since the war began have kept a lid on prices after a two-week slide."
+          "text": "WTI crude is near $85.65 a barrel and Brent near $92.36, both roughly flat after Brent fell 3.6% Monday. Reuters says Brent is down about 22% this month as Middle East exports recover and the International Energy Agency expects a supply surplus this quarter. Attacks on tankers in the Strait of Hormuz and a third US carrier in the region have kept a risk premium in place but have not reversed the decline. Weekly inventory data from the API come this afternoon."
         },
         {
           "type": "sub",
@@ -179,7 +171,7 @@
         },
         {
           "type": "p",
-          "text": "Gold fell to about $3,832 an ounce in early Asian trading, its lowest since October 2025, before recovering to around $3,860. It lost about 4.5% last week. Rising yields and a firm dollar increase the cost of holding gold, which pays no interest, and that has outweighed demand for safety from the Middle East conflict."
+          "text": "Gold is near $3,858 an ounce, up slightly today but held below $3,900, which the WSJ attributes to expectations of a December Fed hike. Higher yields and a strong dollar raise the cost of holding a metal that pays no interest."
         },
         {
           "type": "sub",
@@ -187,26 +179,23 @@
         },
         {
           "type": "p",
-          "text": "Bitcoin fell to a four-month low of about $62,080 on Sunday before recovering to around $64,500 to $65,000. Ether was around $1,800 after falling about 19.5% over the past week. US spot Bitcoin ETFs saw about $2.35 billion in outflows over two weeks, and a widely followed crypto sentiment gauge fell to 10, which is in the extreme fear range. Crypto has been trading with the AI and tech selloff and against rising rate expectations."
+          "text": "Bitcoin is near $64,150, down about 1.3% over the past day, and Ether near $1,790, down about 1.6%. CNBC reported Bitcoin briefly slid to around $62,000 on Monday as a wave of forced selling by leveraged traders hit, and the WSJ says both coins are hovering near multi-month lows as appetite for risk fades."
         }
       ]
     },
     {
       "title": "Today's Calendar",
-      "kicker": "Monday",
+      "kicker": "Tuesday",
       "live": "calendar",
       "blocks": [
         {
-          "type": "p",
-          "text": "Today is light on economic data; Fed speakers are the main event."
-        },
-        {
           "type": "list",
           "items": [
-            "Warsh at noon ET is the most important item. Any comments on inflation or the December meeting could move yields and the dollar.",
-            "Empire State manufacturing index, 8:30 a.m. ET: economists expect a reading near 17.6, down from 25.5 in October. It is still in expansion territory but a sign of cooling.",
-            "Williams (9:05 a.m.) and Hammack (2:15 p.m.): further guidance on how many officials favor a hike.",
-            "Cleveland Fed inflation expectations, around 9:48 a.m. ET: the prior reading was 3.3%."
+            "8:30 a.m. ET, retail sales (October): the day's main release. Forecasts call for 0.1% to 0.2% growth after 0.8%; core sales seen up 0.4% after 0.9%.",
+            "8:30 a.m., import prices: expected up 0.7%, a check on imported inflation and tariff pass-through.",
+            "9:15 a.m., industrial production: expected flat after a 0.7% gain; capacity use about 76.8%.",
+            "10:00 a.m., NAHB homebuilder index: expected to stay at 29, a weak level reflecting high mortgage rates.",
+            "Fed speakers throughout the day, with Waller most closely watched."
           ]
         }
       ]
@@ -224,44 +213,40 @@
           ],
           "rows": [
             [
-              "Baidu",
-              "Before the open (reported)",
-              "AI cloud growth versus the decline in ad revenue; shares slightly lower pre-market on mixed results"
-            ],
-            [
-              "Tyson Foods",
-              "Before the open",
-              "Beef and chicken margins and fiscal 2027 outlook; read on food prices for consumers"
-            ],
-            [
-              "Aramark",
-              "Before the open",
-              "Food-service demand and contract wins; outlook for the new fiscal year"
-            ],
-            [
-              "AECOM",
+              "Nvidia",
               "After the close",
-              "Infrastructure and data-center design backlog; government spending exposure"
+              "Revenue vs. about $108.9B consensus; fourth-quarter guidance; gross margin near 74%; impact of new China export rule; CEO search."
+            ],
+            [
+              "Home Depot",
+              "Reported before the open",
+              "Beat with $3.86 adjusted EPS and $43.4B revenue; new CEO; full-year EPS growth outlook of about 2%."
+            ],
+            [
+              "Disney",
+              "Reported before the open",
+              "Beat with $1.77 adjusted EPS; 33% dividend hike; fiscal 2027 double-digit EPS growth target; extra-week boost."
+            ],
+            [
+              "JD.com",
+              "Reported before the open",
+              "Revenue up 3.5% to 309.6B yuan; margins improved from a year ago; read on Chinese consumer demand."
             ]
           ]
-        },
-        {
-          "type": "p",
-          "text": "The week's heavyweight is Nvidia on Tuesday after the close. Big retailers follow: Home Depot Tuesday, Lowe's, TJX and Target Wednesday, and Walmart Thursday, all before the open."
         }
       ]
     },
     {
       "title": "Week Ahead",
-      "kicker": "Nov 17 to 20",
+      "kicker": "Nov 18 to 20",
       "live": "week",
       "blocks": [
         {
           "type": "p",
-          "text": "Tuesday is the biggest day: October retail sales (economists expect 0.2% growth after 0.8%), Home Depot before the open and Nvidia after the close. Wednesday brings housing starts, earnings from Lowe's, TJX and Target, the expected pricing of Anthropic's IPO, and minutes from the last Fed meeting at 2 p.m. ET, which markets will read for how many officials favored a hike. Thursday has Walmart's results, which are widely watched as a read on household spending, weekly jobless claims (about 199,000 expected), the Philadelphia Fed survey, and Anthropic's expected trading debut. The APEC summit in Shenzhen runs Wednesday and Thursday. Friday closes the week with the final University of Michigan consumer sentiment reading (about 52 expected) and its inflation expectations figure, which was 4.3% last time. Many Fed officials, including Waller, Williams and Barr, speak throughout the week."
+          "text": "After Nvidia tonight, the focus shifts to the Fed and the AI trade. Wednesday brings housing starts and the minutes of the Fed's last meeting at 2 p.m. ET, which could show how many officials favor faster hikes. Anthropic is expected to price its IPO Wednesday and start trading on the Nasdaq under the ticker ANT on Thursday, according to CNBC and Bloomberg, at a range of $70 to $78 a share, a test of investor appetite for AI. Thursday has weekly jobless claims and the Philadelphia Fed factory survey, plus the release of the video game GTA VI. Friday ends with the University of Michigan's final consumer sentiment and inflation-expectations readings. More than a dozen Fed speeches are scheduled through Friday, including Waller again and Governor Lisa Cook."
         }
       ]
     }
   ],
-  "bottom_line": "The morning is cautious and tech-led to the downside. Investors are positioning ahead of Nvidia's earnings and Anthropic's IPO while markets price a near-certain Fed hike in December, and yields, oil and the dollar are holding steady."
+  "bottom_line": "Markets are steadier but defensive after three losing days, with chip stocks under pressure from the new export rule and rates held up by expected Fed hikes. Nvidia's results tonight are the main event for the rest of the week."
 }
