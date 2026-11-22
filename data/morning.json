@@ -1,15 +1,15 @@
 {
-  "date": "2026-11-21",
-  "written_at": "2026-11-21T12:43:05Z",
-  "title": "S&P 500, Dow enter correction as AI selloff caps brutal week",
-  "dek": "US markets are closed for the weekend after Friday's slide left the S&P 500 and Dow more than 10% below their records and wiped out the Nasdaq's gain for 2026. Next week is a holiday-shortened one, with GDP and PCE inflation data landing Wednesday before Thanksgiving.",
+  "date": "2026-11-22",
+  "written_at": "2026-11-22T12:42:48Z",
+  "title": "Markets brace for a short, data-heavy week after correction",
+  "dek": "US markets are closed for the weekend after Friday's AI-led selloff pushed the S&P 500 and Dow into correction. Futures reopen Sunday at 6 p.m. ET, and Wednesday's GDP and PCE inflation data are the last big test before the Fed's December meeting and the Thanksgiving break.",
   "quick": [
-    "Weekend edition: no US trading today. Friday's close set the tone: S&P 500 down 3.7%, Nasdaq down 5.3%, Dow down 1.9%, and the VIX fear gauge near 36.",
-    "Nvidia fell about 14% Friday, extending its longest weekly losing streak since 2008, after reports that the SEC is examining its accounting.",
-    "Anthropic slid about 8.5% in its second day of trading to roughly $89, still above its $83 IPO price.",
-    "Treasury yields dropped sharply as investors sought safety, but rate futures still price a Fed hike at the December 8-9 meeting.",
-    "Bitcoin traded near $58,000 Saturday morning after dipping below $56,000 overnight; gold sits at its lowest since September 2025.",
-    "Next week: markets closed Thursday for Thanksgiving; Wednesday brings Q3 GDP, October PCE inflation and the Fed's Beige Book."
+    "Sunday edition: no US trading today. Friday left the S&P 500 at 6,910, down 3.7%, the Nasdaq down 5.3% and the VIX near 36.",
+    "Two more tankers were reported struck near Oman's Khasab on Saturday, keeping shipping risk around the Strait of Hormuz in focus for oil.",
+    "Bitcoin steadied near $59,000 Sunday morning after briefly falling to about $55,100 on Saturday; ether sits around $1,650.",
+    "Rate futures still price roughly a 90% chance of a quarter-point Fed hike on December 9, despite the stock slide.",
+    "Monday brings flash PMI surveys and remarks from New York Fed President John Williams; Agilent and Zoom report after the close.",
+    "Wednesday is the big day: Q3 GDP, October PCE inflation, jobless claims and durable goods all at 8:30 a.m. ET. Markets close Thursday."
   ],
   "sections": [
     {
@@ -18,43 +18,38 @@
       "blocks": [
         {
           "type": "point",
-          "head": "The AI selloff pushes the S&P 500 and Dow into correction",
-          "what": "US stocks fell hard on Friday. The S&P 500 lost 3.7% to 6,910.39 and the Dow dropped 1.9% to 48,147.33, leaving both more than 10% below their record closes, the common definition of a correction, according to Reuters and CNBC. The Nasdaq Composite sank 5.3% to 22,617.73, erasing its gain for the year. The VIX volatility index jumped about 26% to near 36.",
-          "why": "A correction in both broad indexes signals the selloff has spread beyond a handful of chip stocks. A VIX in the mid-30s means options traders expect large daily swings to continue, which tends to keep pressure on high-valuation growth stocks and support defensive sectors and Treasurys.",
-          "watch": "Whether Monday's flash PMI data and Wednesday's inflation report steady sentiment, or whether selling resumes in a thin holiday week."
+          "head": "Stocks head into the holiday week in correction territory",
+          "what": "Friday's selloff left the S&P 500 at 6,910.39, down 3.7% on the day, and the Dow at 48,147.33, down 1.9%. Both closed more than 10% below their records, the usual definition of a correction, according to Reuters and CNBC. The Nasdaq Composite fell 5.3% to 22,617.73 and gave up its gain for 2026. Index futures settled Friday with similar losses, and the VIX volatility gauge ended near 35.9.",
+          "why": "A VIX in the mid-30s signals that options traders expect large daily swings to continue. Holiday weeks tend to have lighter trading volume, which can magnify moves in either direction, especially for the large tech and chip stocks that led the decline.",
+          "watch": "Where stock futures open Sunday at 6 p.m. ET, and whether Asian chip stocks steady or keep falling Monday."
         },
         {
           "type": "point",
-          "head": "Nvidia drops 14% as the SEC reportedly examines its accounting",
-          "what": "Nvidia shares fell about 14% Friday, reaching their lowest level since June 2025 and extending a weekly losing streak that CNBC and MarketWatch describe as the longest since the 2008 financial crisis. Reuters and The New York Times reported that the SEC is looking into the company's accounting practices; neither Nvidia nor the SEC commented in those reports. The news comes after Jensen Huang stepped down as CEO, with CFO Colette Kress serving as interim chief, and Nvidia's board has said it does not plan to reinstate him.",
-          "why": "Nvidia is one of the largest weights in the S&P 500 and Nasdaq, and its chips sit at the center of AI spending plans, so its slide drags on index performance and on chip suppliers worldwide. Other chipmakers fell with it: Micron and AMD each lost roughly 13% to 14% Friday.",
-          "watch": "Any formal disclosure from Nvidia about the SEC inquiry, and further board or leadership announcements."
+          "head": "Nvidia's leadership turmoil and regulatory scrutiny remain the market's biggest overhang",
+          "what": "Nvidia fell about 14% Friday, capping its longest weekly losing streak since 2008, per CNBC. The Wall Street Journal first reported that the SEC has opened a civil inquiry into whether the company's disclosures misled investors, and The New York Times reported the probe covers accounting practices; neither the SEC nor Nvidia has confirmed it. Weekend reporting by the Times and the Journal focused on alleged efforts to move Nvidia chips to China involving associates of Jensen Huang, who resigned as CEO on November 12. Nvidia's board, led by chair Harvey Jones, has said it does not plan to reinstate him, even though President Trump has said publicly he would not mind seeing Huang return.",
+          "why": "Nvidia is one of the largest weights in the S&P 500 and Nasdaq, and its suppliers make up a big share of markets in Taiwan, South Korea and Japan. Any new disclosure, filing or leadership news can swing chip stocks and the broader indexes.",
+          "watch": "Any formal company statement on the SEC inquiry or the CEO search, and chip-stock trading in Asia Monday."
         },
         {
           "type": "point",
-          "head": "Anthropic gives back part of its record IPO gain",
-          "what": "Anthropic, which priced the largest IPO on record at $83 a share, opened Thursday at $111.50 and closed at $97.17. On Friday the stock fell about 8.5% to around $88.91, at one point trading only a few cents above its IPO price, according to The Wall Street Journal and CNBC.",
-          "why": "Some investors had hoped a strong debut would mark a turning point for AI stocks; analysts quoted by Reuters said it did not act as that clearing event. How the stock trades relative to its $83 offer price is now being watched as a gauge of appetite for AI risk."
+          "head": "Wednesday's GDP and PCE data are the last major inputs before the Fed decides",
+          "what": "The government will release its second estimate of third-quarter GDP and October personal income, spending and PCE inflation together Wednesday at 8:30 a.m. ET, along with weekly jobless claims and durable goods orders. Forecasts compiled in the app's calendar call for GDP growth of 3.5% annualized, up from 3.4% in the first estimate, and a 0.3% monthly rise in core PCE prices, matching the prior month. Some previews put the annual core PCE rate around 3.1% to 3.2%.",
+          "why": "PCE is the Fed's preferred inflation gauge. A hotter-than-expected reading could revive talk of a larger December hike and push Treasury yields higher, while a softer one could give some relief to rate-sensitive stocks and bonds.",
+          "watch": "The Fed's Beige Book survey of regional business conditions, also due Wednesday afternoon."
         },
         {
           "type": "point",
-          "head": "Fed still seen raising rates in December, even as bond yields fall",
-          "what": "Rate futures continue to price an interest-rate increase at the Fed's December 8-9 meeting. As of Thursday, CME FedWatch showed about a 91% chance of a quarter-point hike and about 9% for a half-point move. Fed Governor Christopher Waller has said the Fed should consider a half-point hike if it does not clearly signal another increase for January, and Governor Lisa Cook has said further hikes are needed to bring inflation down. Minutes of the October meeting showed nearly all officials expect a quarter-point hike in December.",
-          "why": "Higher short-term rates raise borrowing costs and weigh on stock valuations, especially for growth and tech shares. Friday's drop in yields reflected investors buying Treasurys for safety, not a change in Fed expectations, so the stock selloff and hawkish Fed are hitting risk assets at the same time.",
-          "watch": "Wednesday's October PCE inflation report, the Fed's preferred inflation gauge."
+          "head": "More tanker strikes near the Strait of Hormuz",
+          "what": "The UK Maritime Trade Operations agency reported two separate incidents Saturday involving outbound tankers near Khasab, Oman, at the Strait of Hormuz, according to Reuters and other outlets. One vessel was hit on its stern about 11 nautical miles north of Khasab and another in its engine room about 17 nautical miles east, both by unidentified projectiles; it was not clear whether the same ship was involved, and no casualties were reported. The incidents followed a similar attack Friday that caused a fire aboard a tanker, and Iran said a separate vessel struck a mine east of Hormuz, per Reuters. Shipping through the strait has been disrupted since the conflict involving Iran began on February 28.",
+          "why": "The strait normally carries about a fifth of the world's oil supply, so new attacks can lift crude prices, tanker rates and insurance costs, and support energy stocks. Oil has still fallen for three straight weeks as traders focus on ample global supply.",
+          "watch": "Brent and WTI when energy futures reopen Sunday evening."
         },
         {
           "type": "point",
-          "head": "Trump threatens a 'tremendous tax' on companies building data centers abroad",
-          "what": "Speaking at the White House Friday after his trilateral summit with Chinese President Xi Jinping and Russian President Vladimir Putin, President Trump said he would tax US companies that build AI data centers outside the country. He gave no details on the size, legal basis or timing, and said his team was hearing about it for the first time, according to NBC News, The Hill and The New York Times.",
-          "why": "Major cloud and AI companies have announced data-center projects overseas, so any such policy could change their spending plans and costs. Analysts note Congress, not the president, holds the authority to impose taxes, so the market impact depends on whether a concrete proposal follows."
-        },
-        {
-          "type": "point",
-          "head": "CrowdStrike reported in talks to buy Zscaler",
-          "what": "Zscaler shares jumped roughly 16% to 18% in after-hours trading Friday after Bloomberg and Reuters reported that CrowdStrike is in talks to acquire the cybersecurity company, which has a market value of about $32 billion. Neither report said a deal had been agreed. CrowdStrike shares fell about 6% to 8% after hours.",
-          "why": "A deal would be one of the largest in cybersecurity and could lift other software security names on takeover expectations, while the acquirer's stock typically falls on the cost of a large purchase.",
-          "watch": "Confirmation or denial from either company before Monday's open."
+          "head": "CrowdStrike–Zscaler talks and the data-center tax threat hang over tech",
+          "what": "Bloomberg and Reuters reported Friday that CrowdStrike is in talks to acquire Zscaler, which was valued at about $32 billion; no terms have been disclosed and the talks could end without a deal. Zscaler rose about 17% after hours while CrowdStrike fell about 8%. Separately, President Trump said Friday he would impose a large tax on US companies that build AI data centers abroad, without giving details on size, timing or legal basis, according to NBC News and The New York Times.",
+          "why": "A deal would be among the largest in cybersecurity and could lift other security software stocks on takeover hopes. The tax remark adds uncertainty for the big cloud companies with overseas data-center plans, though tax policy requires action by Congress.",
+          "watch": "Whether either company confirms the talks before Monday's open, and any written proposal on the data-center tax."
         }
       ]
     },
@@ -68,7 +63,7 @@
         },
         {
           "type": "p",
-          "text": "Asian markets had their worst week in years on Friday. Taiwan's main index fell about 6.2%, capping its worst week since 1991, according to Reuters and other outlets. South Korea's KOSPI dropped 5.2% to about 4,870, back below 5,000, and Japan's Nikkei 225 fell about 5.1% to 56,437, with SoftBank Group down by double digits. Losses were smaller in China: the Hang Seng fell 1.9% and Shanghai 1.2%. MSCI's broadest index of Asia-Pacific shares outside Japan lost 3.2% on the day and 8.3% on the week, its worst week since March 2020, per Reuters. Chip-heavy markets were hit hardest because their companies supply Nvidia and other AI hardware buyers."
+          "text": "Asian markets are closed for the weekend and reopen Sunday evening US time. On Friday, Japan's Nikkei 225 fell about 5.1% to 56,437, South Korea's KOSPI dropped about 5.2% and Taiwan's main index lost about 6.2%, capping its worst week since 1991, according to Reuters. Chinese markets fell less: the Hang Seng slipped 1.9% and Shanghai 1.2%. MSCI's broadest index of Asia-Pacific shares outside Japan lost 8.3% for the week, its worst since March 2020, per Reuters. Chip-heavy markets took the brunt because their companies supply Nvidia and other AI hardware buyers. In weekend news, South Korea's education minister resigned, per the BBC, The New York Times and The Guardian, a domestic political story with no direct market link."
         },
         {
           "type": "sub",
@@ -76,7 +71,7 @@
         },
         {
           "type": "p",
-          "text": "The Stoxx 600 fell 2.0% to 625.65, its fifth straight decline, leaving it down about 5.8% for the week, its worst week since March. Germany's DAX dropped 2.6% and the UK's FTSE 100 about 1.0%. Chip-linked stocks such as ASML and STMicroelectronics fell more than 9%, according to Reuters. Separately, the UK and EU agreed a deal Friday covering food exports, emissions trading and a youth mobility scheme, per the BBC and The Guardian."
+          "text": "The Stoxx 600 fell 2.0% Friday to 625.65, its fifth straight decline and its worst week since March, down about 5.8%. Germany's DAX lost 2.6% and the UK's FTSE 100 about 1.0%, with chip-equipment makers ASML and STMicroelectronics down more than 9%, per Reuters. CNBC reported that an early breakdown in the polar vortex could bring colder, less windy weather to Europe, straining a gas market where storage began the winter at its lowest level in more than a decade. That is a risk to watch for European utilities and industrial companies."
         },
         {
           "type": "sub",
@@ -84,7 +79,7 @@
         },
         {
           "type": "p",
-          "text": "The yen was the standout safe haven for the week, rising against all major currencies. The dollar weakened about 0.7% against the yen on Friday to around 158.5, moving away from the 160 level that traders watch for possible Japanese intervention. The dollar index ended near 103.8, little changed on the day; CNBC noted it was near a 19-month high earlier Friday on Fed hike expectations. The euro was flat at about $1.097, the pound near $1.308, and the dollar firmed slightly against China's yuan to about 6.68."
+          "text": "Currency markets are shut until Sunday evening, so these are Friday's closing levels. The yen was the week's main safe haven: the dollar fell about 0.7% Friday to roughly 158.5 yen, moving away from the 160 level traders watch for possible Japanese intervention. The dollar index finished near 103.8, little changed, after hitting its highest in about 19 months earlier Friday on Fed hike expectations, per CNBC. The euro was flat near $1.097, the pound near $1.308, and the dollar edged up to about 6.68 yuan."
         }
       ]
     },
@@ -94,11 +89,11 @@
       "blocks": [
         {
           "type": "p",
-          "text": "US stock and futures markets are closed for the weekend, so the table below reflects Friday's close. Futures finished Friday well below Thursday's levels, matching the cash indexes: Nasdaq 100 futures were down nearly 5% and S&P 500 futures about 3%. The Russell 2000 small-cap index fell 2.8%, a smaller drop than the Nasdaq, as the selling was concentrated in large tech and chip stocks."
+          "text": "US stocks and futures are closed for the weekend, so the table below shows Friday's final levels. S&P 500 futures ended down about 3.2%, Nasdaq 100 futures down nearly 5% and Dow futures down about 1.6%, in line with the cash indexes. Small caps held up somewhat better: the Russell 2000 fell 2.8%, less than the Nasdaq, because the selling centered on large tech and chip stocks."
         },
         {
           "type": "p",
-          "text": "With volatility elevated, weekend headlines, including any news on Nvidia, the Zscaler talks or the data-center tax threat, could set the tone when futures reopen Sunday evening at 6 p.m. ET."
+          "text": "The first read on Monday's open comes when futures resume trading Sunday at 6 p.m. ET. Weekend items that could move them include the Hormuz tanker incidents, any news on Nvidia or the CrowdStrike–Zscaler talks, and the tone of Asian trading in chip stocks."
         }
       ]
     },
@@ -107,11 +102,11 @@
       "blocks": [
         {
           "type": "p",
-          "text": "Treasury yields fell sharply on Friday as investors moved money from stocks into government bonds. The 2-year yield, which tracks Fed expectations, dropped roughly 11 to 14 basis points to about 4.65%, according to CNBC and other data providers. The 10-year fell about 10 basis points to roughly 4.94%-4.95%, its fifth straight daily decline, and the 30-year slipped about 6 basis points to around 5.32%-5.34%. The curve steepened slightly, with the gap between 2-year and 10-year yields near 30 basis points."
+          "text": "Treasurys rallied Friday as investors moved money out of stocks. The 2-year yield, which tracks Fed expectations most closely, fell about 13 basis points to 4.65%. The 10-year dropped about 10 basis points to 4.95%, and the 30-year slipped about 6 basis points to 5.34%. Because short-term yields fell more than long-term ones, the curve steepened slightly: the 10-year now yields about 30 basis points more than the 2-year."
         },
         {
           "type": "p",
-          "text": "The Fed under Chair Kevin Warsh resumed raising rates in September and held steady in October, when Governor Cook was among the dissenters who favored a hike. Markets broadly expect an increase at the December 8-9 meeting and more next year, according to Reuters. Fed funds futures as of Thursday priced about a 91% chance of a quarter-point hike and 9% of a half-point move, per CME FedWatch."
+          "text": "The bond rally reflected demand for safety, not a shift in Fed expectations. Fed funds futures priced about a 90% chance of a quarter-point hike at the December 8-9 meeting late last week, with most of the remainder on a half-point move, according to CME FedWatch data cited by several outlets. Reports citing the same data show traders see roughly even odds of another hike in January. Fed Governor Christopher Waller has argued for considering a half-point move, while New York Fed President John Williams has said conditions do not call for dramatic action. Governor Lisa Cook has said further increases are needed, and minutes of the October meeting showed nearly all officials expected a December hike."
         },
         {
           "type": "sub",
@@ -120,8 +115,9 @@
         {
           "type": "list",
           "items": [
-            "No Fed officials are scheduled to speak this weekend.",
-            "Next week: the Fed's Beige Book survey of regional business conditions is due Wednesday afternoon, ahead of the December meeting's pre-meeting quiet period."
+            "Today (Sunday): no Fed officials scheduled.",
+            "Monday: New York Fed President John Williams, a permanent voter on rates, is scheduled to speak in the afternoon ET, per the app's calendar.",
+            "Wednesday: the Beige Book is released at 2 p.m. ET. Fed officials enter their pre-meeting quiet period on Saturday, November 28."
           ]
         }
       ]
@@ -136,22 +132,21 @@
         },
         {
           "type": "p",
-          "text": "Technology was the worst S&P 500 sector Friday, falling about 7.3% as chipmakers sold off. Industrials (down 3.1%), consumer discretionary (down 3.0%) and communication services (down 2.7%) also lagged, reflecting their exposure to AI spending and megacap tech. Consumer staples was the only sector to rise, gaining about 0.7%, while health care was nearly flat and energy and utilities dipped less than 1%. That pattern shows investors rotating into defensive, steady-earnings businesses."
+          "text": "Technology was by far the weakest S&P 500 sector Friday, down about 7.3% as chipmakers sold off. Industrials (down 3.1%), consumer discretionary (down 3.0%), communication services (down 2.7%) and materials (down 2.2%) also lagged, all groups tied to AI spending or to megacap tech. Consumer staples was the only sector to rise, up about 0.7%, while health care was nearly flat and utilities, energy and real estate fell less than 1%. CNBC noted that long-unpopular defensive names such as Clorox and Campbell's have been gaining as the AI trade loses steam, a sign of investors rotating toward steady earners."
         },
         {
           "type": "sub",
-          "text": "Notable movers"
+          "text": "Names to watch Monday"
         },
         {
           "type": "list",
           "items": [
-            "Nvidia: down about 14% on reports of an SEC accounting inquiry, following its CEO's departure.",
-            "Micron and AMD: each down roughly 13% to 14% in the broad chip selloff.",
-            "Anthropic: down about 8.5% to near $89 in its second trading day.",
-            "General Mills: up about 5% as investors sought defensive food stocks.",
-            "UnitedHealth: up roughly 3% after TD Cowen upgraded it to buy.",
-            "Zscaler: up 16% to 18% after hours on reports CrowdStrike is in takeover talks; CrowdStrike down 6% to 8% after hours.",
-            "Take-Two Interactive: 'Grand Theft Auto VI' generated $3.79 billion in first-day sales, a record for any entertainment launch according to the company."
+            "Nvidia: down about 14% Friday; weekend coverage of the chip-smuggling case and the reported SEC inquiry keeps it in focus.",
+            "Micron and AMD: each fell about 13% to 14% Friday in the chip selloff.",
+            "Anthropic: ended Friday near $89, down about 8.5% in its second trading day and close to its $83 IPO price.",
+            "Zscaler and CrowdStrike: up about 17% and down about 8% after hours, respectively, on the reported takeover talks.",
+            "Procter & Gamble: The New York Times reported the company runs 15 sites that can operate factory shifts without workers on site and plans to add more in 2027 to cut costs.",
+            "Agilent, Zoom and Workday: scheduled to report after Monday's close."
           ]
         }
       ]
@@ -165,7 +160,7 @@
         },
         {
           "type": "p",
-          "text": "Oil rose Friday but posted a third straight weekly decline. WTI crude settled at $83.98 a barrel, up about 0.9% on the day and down 5.2% for the week; Brent settled at $92.57, up about 0.6% and down 3.4% for the week. Prices got a lift from a tanker incident near the Strait of Hormuz, while expectations of ample global supply have weighed on oil for weeks."
+          "text": "WTI crude settled Friday at $83.98 a barrel and Brent at $92.57, both up modestly on the day but down for a third straight week, with WTI off 5.2% and Brent 3.4% for the week. Traders have been weighing steady global supply against repeated attacks on shipping near the Strait of Hormuz. Saturday's two new tanker incidents near Khasab add to that risk when futures reopen Sunday evening."
         },
         {
           "type": "sub",
@@ -173,7 +168,7 @@
         },
         {
           "type": "p",
-          "text": "Gold fell about 3% to 4% Friday to around $3,515-$3,540 an ounce, its lowest since September 2025, according to Kitco and other data providers. Gold has struggled because rising expectations for Fed rate hikes and a strong dollar increase the cost of holding a metal that pays no interest; some investors also sold gold to cover losses elsewhere."
+          "text": "Gold fell about 4% Friday to near $3,539 an ounce, its lowest since September 2025. Expectations of more Fed hikes and a firm dollar raise the cost of holding a metal that pays no interest, and some investors sold gold to cover losses elsewhere, so it has not acted as a haven in this selloff."
         },
         {
           "type": "sub",
@@ -181,7 +176,7 @@
         },
         {
           "type": "p",
-          "text": "Bitcoin, which trades around the clock, was near $58,000 Saturday morning after falling below $56,000 late Friday, its lowest level since July, according to CoinGecko and CoinGlass. Over the past 24 hours it has ranged roughly from $55,100 to $62,200, with more than $2 billion in leveraged positions liquidated, per crypto data sites. CNBC noted bitcoin has been falling alongside stocks rather than acting as a hedge. Ether was near $1,640 in the app's latest quote, holding up better than bitcoin over the past day."
+          "text": "Bitcoin, which trades around the clock, was near $59,000 early Sunday, up about 2% over 24 hours but down about 8% over seven days, according to CoinGecko data reported by crypto outlets. It briefly fell to about $55,100 on Saturday, its lowest since 2024, before rebounding. Ether traded around $1,650 to $1,670. Analysts cited outflows from crypto ETFs and the broader retreat from risk; the Crypto Fear & Greed Index has sat in extreme fear all week. The app's quote table may show slightly older figures."
         }
       ]
     },
@@ -191,26 +186,26 @@
       "blocks": [
         {
           "type": "p",
-          "text": "It is Saturday, so there are no US economic releases and stock and bond markets are closed. Crypto trades continuously, and US stock futures reopen Sunday at 6 p.m. ET."
+          "text": "There are no US economic releases on Sunday. The items that matter most for the start of the week:"
         },
         {
           "type": "list",
           "items": [
-            "Monday: S&P Global flash manufacturing and services PMIs for November, an early read on business activity.",
-            "Tuesday: Conference Board consumer confidence for November.",
-            "Wednesday, 8:30 a.m. ET: second estimate of third-quarter GDP and October personal income, spending and PCE inflation. One preview expects headline PCE to rise 0.3% for the month, with the annual rate edging up to 3.8% from 3.6%.",
-            "Wednesday afternoon: Fed Beige Book."
+            "Sunday, 6 p.m. ET: US stock, bond and oil futures reopen.",
+            "Monday, 9:45 a.m. ET: S&P Global flash PMIs for November. Forecasts call for manufacturing at 54.5, down from 56.0, and services at 55.6, down from 57.9. Readings above 50 signal expansion.",
+            "Monday afternoon: New York Fed President John Williams speaks.",
+            "Tuesday, 10 a.m. ET: Conference Board consumer confidence, forecast at 92.1 versus 91.7, a read on holiday spending.",
+            "Wednesday, 8:30 a.m. ET: Q3 GDP (forecast 3.5%), October core PCE (forecast 0.3% monthly), jobless claims (forecast 201,000) and durable goods."
           ]
         }
       ]
     },
     {
       "title": "Earnings to Watch",
-      "kicker": "Next week",
       "blocks": [
         {
           "type": "p",
-          "text": "No major companies report this weekend. These are the key reports in the holiday-shortened week; some calendars list slightly different dates for Dell, HP and Best Buy, so confirm before trading."
+          "text": "No major companies report on Sunday. These are the key scheduled reports for the start of the week; dates come from company announcements and earnings calendars, and a few may still shift."
         },
         {
           "type": "table",
@@ -221,34 +216,44 @@
           ],
           "rows": [
             [
-              "Best Buy",
-              "Tue, before the open",
-              "Holiday-season outlook and consumer electronics demand; consensus about $1.49 a share on $9.9 billion revenue"
+              "Agilent",
+              "Mon, after close",
+              "Lab-equipment demand from drug and research customers; consensus near $1.73 a share."
             ],
             [
-              "Analog Devices",
-              "Tue, before the open",
-              "Industrial and auto chip demand amid the chip selloff; consensus about $3.88 a share"
-            ],
-            [
-              "Dell Technologies",
-              "Tue, after the close",
-              "AI server orders and backlog; consensus about $6.61 a share on $49.3 billion revenue"
-            ],
-            [
-              "HP Inc.",
-              "Tue, after the close",
-              "PC demand and memory cost pressures; consensus about $0.75 a share"
+              "Zoom",
+              "Mon, after close",
+              "Enterprise growth and AI features; estimates range from about $1.39 to $1.49 a share."
             ],
             [
               "Workday",
-              "Tue, after the close",
-              "Software spending and AI's effect on business-software demand"
+              "Mon, after close",
+              "Subscription growth and whether AI is helping or hurting demand for business software."
+            ],
+            [
+              "Analog Devices",
+              "Tue, before open",
+              "Industrial and auto chip orders; a read on chip demand outside AI after Friday's rout."
+            ],
+            [
+              "Best Buy",
+              "Tue, before open",
+              "Holiday outlook and electronics demand heading into Black Friday."
+            ],
+            [
+              "Dell",
+              "Tue, after close",
+              "AI server sales and backlog, a direct test of AI spending; consensus about $6.62 a share."
+            ],
+            [
+              "HP",
+              "Tue, after close",
+              "PC demand and memory-chip cost pressures."
             ],
             [
               "Deere",
-              "Wed, before the open",
-              "Farm equipment demand and 2027 outlook"
+              "Wed, before open",
+              "Farm-equipment demand and its 2027 outlook."
             ]
           ]
         }
@@ -260,10 +265,10 @@
       "blocks": [
         {
           "type": "p",
-          "text": "Next week is short: US stock markets close Thursday for Thanksgiving and shut early, at 1 p.m. ET, on Friday. The key test comes Wednesday morning, when the government releases its updated third-quarter GDP estimate and the October PCE inflation report together, followed by the Fed's Beige Book. A hotter inflation reading would reinforce expectations for a December hike and could revive talk of a half-point move, while a softer one could ease pressure on bonds and stocks. On the corporate side, Dell's results Tuesday will be closely read for signs of whether AI server demand is holding up after this week's chip rout. Trading volume tends to be light around Thanksgiving, which can amplify price swings when volatility is already high. Black Friday also kicks off the holiday shopping season, a gauge of consumer spending."
+          "text": "It is a holiday-shortened week: US stock markets are closed Thursday for Thanksgiving and close early, at 1 p.m. ET, on Friday, with bond markets also closing early. Monday's flash PMIs and Williams' remarks open the week, Dell's results Tuesday evening are the main test of AI hardware spending after the chip selloff, and Wednesday packs GDP, PCE inflation, durable goods, jobless claims and the Beige Book into one day before the break. Friday's Black Friday sales give the first read on holiday demand. With volatility high and trading volume usually thin around Thanksgiving, news on Nvidia, the Fed or the Strait of Hormuz could move prices more than usual."
         }
       ]
     }
   ],
-  "bottom_line": "Markets head into the weekend in risk-off mode: the S&P 500 and Dow are in correction, chip stocks just had their worst week in decades by some measures, and investors are buying Treasurys and the yen even as the Fed signals another hike. Wednesday's inflation and GDP data are the main scheduled event before the holiday."
+  "bottom_line": "Markets enter Thanksgiving week in correction after the sharpest AI-led selloff in years, with volatility elevated and a December Fed hike still largely priced in. Wednesday's inflation and growth data are the main scheduled catalyst before the holiday."
 }
