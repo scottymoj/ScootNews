@@ -1,15 +1,15 @@
 {
- "date": "2026-11-24",
- "written_at": "2026-11-24T12:42:33Z",
- "title": "Futures slip as Nvidia gives back part of its record rally",
- "dek": "US stock futures are lower after Monday's best day for the S&P 500 and Nasdaq since April 2025, with Nvidia down 3% to 5% pre-market after its 31% jump. Treasury yields are slightly lower, a December Fed hike is still seen as near-certain, and Sanofi's $41 billion deal for Insmed leads company news.",
+ "date": "2026-11-25",
+ "written_at": "2026-11-25T12:43:14Z",
+ "title": "Tech selloff deepens before the last big inflation report",
+ "dek": "Nasdaq 100 futures are down more than 2% as Nvidia, Dell and other AI names extend Tuesday's losses and Asian chip stocks tumbled overnight. October PCE inflation and third-quarter GDP land at 8:30 a.m. ET, with a December Fed hike seen as nearly certain and reports of new US tariffs adding to the unease.",
  "quick": [
-  "S&P 500 futures are down roughly 0.7% to 1% and Nasdaq 100 futures more, after Monday's 4.7% S&P gain and 6.5% Nasdaq surge.",
-  "Nvidia is down about 3% to 5% pre-market after soaring 31.5% to $165.05 on Jensen Huang's reinstatement as CEO.",
-  "Sanofi agreed to buy Insmed for $175 a share in cash, about $41 billion; Insmed is up about 14% and Sanofi more than 4% in Paris.",
-  "Asian chip stocks caught up with Wall Street: Taiwan's Taiex rose about 9% and South Korea's Kospi about 7%, back above 5,000.",
-  "The 10-year Treasury yield is near 4.90%, down about 2 basis points; futures still price roughly a 95% chance of a December Fed hike.",
-  "Today: consumer confidence at 10 a.m. ET, a $70 billion 5-year note auction at 1 p.m., and Dell and Workday after the close."
+  "S&P 500 futures are down roughly 1.4% to 1.7% and Nasdaq 100 futures about 2.3% to 2.6%, after Tuesday's 0.5% S&P drop and 1.5% Nasdaq slide.",
+  "Nvidia is down about 4.6% pre-market after falling about 6% Tuesday; Dell is down about 7% despite a blowout quarter and a $25 billion buyback.",
+  "Asian chip stocks sold off hard: SoftBank fell about 15%, Korea's Kospi about 6% and the Nikkei 2.8%.",
+  "Bloomberg and AP report the US is preparing new tariffs on China, the EU and 14 other economies; rates are not yet known.",
+  "October PCE inflation is expected at 3.8% a year (core 3.2%); futures price about a 96% to 97% chance of a Fed hike on December 9.",
+  "Markets are closed Thursday for Thanksgiving and close early, at 1 p.m. ET, on Friday."
  ],
  "sections": [
   {
@@ -17,44 +17,43 @@
    "blocks": [
     {
      "type": "point",
-     "head": "Stocks cool after the biggest rally in a year and a half",
-     "what": "The S&P 500 jumped 4.73% on Monday to 7,237.17, its second-largest point gain ever, and the Nasdaq Composite rose 6.51% to 24,089.56, its best day since April 9, 2025. The Dow added 1,448 points, or 3.01%, to 49,595.31. The rally snapped a seven-session losing streak for the S&P 500 and followed the Nasdaq's 10% drop last week. This morning, futures are giving back part of those gains: S&P 500 futures were down roughly 0.7% to 1% depending on the time of the quote, Dow futures about 0.4% to 0.5%, and CNBC reported Nasdaq 100 futures down as much as about 2%.",
-     "why": "A pullback after a one-day move this large is common, and the question for today is whether buyers return to chip and AI stocks or keep taking profits. The VIX volatility index fell to about 27 from near 36, but that is still well above calm-market levels, so large swings in either direction remain likely.",
-     "watch": "Whether the Nasdaq holds above Monday's open; a deeper slide would suggest Monday was mostly short covering."
+     "head": "AI selling returns, led by Nvidia",
+     "what": "Monday's relief rally on Jensen Huang's return as Nvidia CEO lasted one day. On Tuesday the Nasdaq Composite fell 1.48% to 23,733.54 and the S&P 500 lost 0.50% to 7,201.09, while the Dow rose 0.85% to 50,018.70 as money moved into health care and consumer staples. Nvidia lost about 6% and is down another 4.6% or so pre-market. CNBC reported Huang told staff Nvidia does not need a succession plan, reviving concern about how much the company depends on him.",
+     "why": "Nvidia is the largest weight in the S&P 500 and Nasdaq, so its swings drive the indexes and chip suppliers worldwide.",
+     "watch": "Huang faces a closed-door House hearing on December 1 and a public Senate hearing on December 3."
     },
     {
      "type": "point",
-     "head": "Nvidia slips after its best day since 2003",
-     "what": "Nvidia's board reinstated Jensen Huang as CEO and board chair on Monday, 11 days after he resigned following his acknowledgment of an affair with a former Megaspeed executive. President Trump said he and his administration assured the board that Huang posed no national security risk, and the WSJ and NYT reported that Vice President Vance helped persuade the board. The shares rose 31.48% to $165.05, adding close to $1 trillion in market value, and set a record for single-stock options volume, per CNBC. Pre-market, the stock is down about 3% to 5%.",
-     "why": "Nvidia is the largest weight in the S&P 500 and the bellwether for AI spending, so its direction carries the Nasdaq, chipmakers and AI-linked utilities and industrials. Lawmakers from both parties have criticized the reinstatement and several investigations of the company and Huang remain open, which leaves headline risk in place.",
-     "watch": "TechCrunch and others report Huang is scheduled to testify before a Senate committee next week; Senate Banking had requested a December 3 appearance."
+     "head": "October PCE inflation and GDP at 8:30 a.m. ET",
+     "what": "The Commerce Department releases October PCE prices, personal income and spending, plus the second estimate of third-quarter GDP, all moved up because of the holiday. Economists polled by Dow Jones expect headline PCE prices up 0.3% for the month and 3.8% from a year ago, up from 3.6%. Core PCE, which excludes food and energy, is expected up 0.3% for the month and 3.2% from a year earlier, versus 3.1%. GDP growth is forecast at a 3.5% annual rate.",
+     "why": "This is the last major inflation report before the Fed's December 8-9 meeting. A hotter number would push Treasury yields and the dollar higher and could add pressure on richly valued tech stocks; a softer one could ease some of the hike talk for early next year.",
+     "watch": "Also at 8:30: weekly jobless claims (forecast 201,000) and October durable goods orders (forecast up 0.7%)."
     },
     {
      "type": "point",
-     "head": "Sanofi agrees to buy Insmed for about $41 billion",
-     "what": "Sanofi will pay $175 a share in cash for Insmed, a total equity value of about $41 billion, according to Sanofi's announcement. That is about 46% above Insmed's price on November 18, before reports of talks. The deal, approved by both boards, gives Sanofi the lung-disease drugs Brinsupri and Arikayce and is expected to close in the first half of 2027, funded by debt and cash. CNBC described it as the drug industry's biggest deal in three years.",
-     "why": "Insmed is up about 14% pre-market and Sanofi rose more than 4% in Europe, per Reuters. The deal adds to a busy stretch of large-scale M&A, after CrowdStrike's $43.9 billion Zscaler deal on Monday, and could lift other mid-size biotech stocks seen as possible targets.",
-     "watch": "Antitrust review and whether any rival bidder emerges; Insmed would owe a $1.125 billion fee to back out for a better offer."
+     "head": "Dell beats big, and the stock still falls",
+     "what": "Dell reported third-quarter revenue of $54.9 billion, up 103% from a year earlier, and adjusted earnings of $9.45 a share versus about $6.59 expected, per its release and LSEG data. AI server orders were $60.2 billion and the AI backlog rose to $132.3 billion from $95 billion. It raised its full-year revenue forecast to about $202 billion and authorized $25 billion in buybacks. The stock, which fell about 11% in Tuesday's regular session, is down roughly 7% pre-market.",
+     "why": "Selling on strong results signals investors are questioning how much AI demand is already in prices and how profitable AI servers are. That weighs on hardware, chip and data-center stocks.",
+     "watch": "Workday, Autodesk and HP also beat forecasts but are lower or flat pre-market; see Stocks & Sectors."
     },
     {
      "type": "point",
-     "head": "Fed hike expectations hold as Williams talks tougher",
-     "what": "New York Fed President John Williams said Monday that policy needs to bring inflation back to 2% in a timely way and that higher rates are likely needed over time, per CNBC. He said he would not rule out moving at consecutive meetings if needed, though he did not commit on the December decision. Fed funds futures price about a 95% to 96% chance of a quarter-point hike at the December 8-9 meeting, according to CME FedWatch data cited in several reports.",
-     "why": "A hike is largely priced, so markets are now focused on how many more follow. Yahoo Finance reported Monday's rebound revived bets on at least two more increases, which keeps pressure on high-valuation growth stocks and short-term Treasury yields.",
-     "watch": "Wednesday's October PCE inflation report, the Fed's preferred gauge."
+     "head": "New US tariffs reported to be coming",
+     "what": "Bloomberg, AP and the WSJ report the administration is preparing higher tariffs on goods from China, the European Union and 14 other economies after a probe into subsidized and excess manufacturing capacity. The new duties would replace tariffs the Supreme Court struck down in February and would stack on the 10% to 12.5% tariffs announced earlier this year. Rates were not clear, Chinese goods are expected to face broader coverage, and an announcement could come as early as today, according to the reports.",
+     "why": "Tariffs raise costs for importers and retailers and could feed into inflation just as the Fed is raising rates. Trade-exposed sectors, the euro and the yuan are most sensitive, and retaliation by the EU or China is a risk analysts cite.",
+     "watch": "An official announcement and the rates chosen."
     },
     {
      "type": "point",
-     "head": "Hormuz mine claims barely move oil",
-     "what": "Iran's Revolutionary Guard said three tankers hit mines and caught fire in the Strait of Hormuz on Monday despite US escorts, a claim not independently verified. The US Treasury widened sanctions on more than two dozen Iranian exchange houses and front companies, and the WSJ reported US officials are examining whether Iran was behind cyberattacks on as many as 50 ships. Even so, Brent crude is near $89.40 a barrel, close to its lowest level since late August, per Reuters and others.",
-     "why": "Ample supply, including strategic reserve releases cited by a UBS analyst, is outweighing the security risk for now. That keeps pressure on energy stocks, which fell Monday, and helps ease inflation worries ahead of the Fed meeting.",
-     "watch": "Any confirmed damage to shipping traffic through Hormuz, which could reverse the calm quickly."
+     "head": "Anthropic slips below its IPO price",
+     "what": "Anthropic shares fell 6.5% on Tuesday to $81.91, below their $83 IPO price less than a week after the November 19 debut, when the stock opened at $111.50, per Axios and CNBC.",
+     "why": "The slide in the year's biggest IPO is being read as a gauge of investor appetite for AI."
     },
     {
      "type": "point",
-     "head": "Washington blacklists Megaspeed",
-     "what": "The Commerce Department added Megaspeed, the Singapore-based firm at the center of the Nvidia controversy, and six other companies to its entity list over concerns about diversion of advanced computing products, according to CNBC, The Hill and the BBC. US companies now need a special license to do business with them.",
-     "why": "The move adds to the debate over chip exports to China, a risk for Nvidia and other chipmakers' sales in Asia. It also signals the administration is pairing its support for Huang with tougher enforcement on the companies involved."
+     "head": "Oil near three-month lows despite Gulf attacks",
+     "what": "Brent fell about 1.7% to near $89.80 a barrel and WTI about 1.8% to near $80.60 in early European trade, per Anadolu. Iran says at least six tankers have been targeted in the Strait of Hormuz since Tuesday, and a Houthi attack on a Riyadh tower owned by Saudi Arabia's sovereign wealth fund injured 11, per CNBC.",
+     "why": "Lower oil helps the inflation outlook and transport stocks but weighs on energy shares. Markets are betting supply is ample even with Hormuz traffic reduced."
     }
    ]
   },
@@ -67,7 +66,7 @@
     },
     {
      "type": "p",
-     "text": "Asian chip stocks staged a catch-up rally after Wall Street's surge. Taiwan's Taiex climbed about 9%, led by gains near 10% in TSMC and MediaTek, per AP. South Korea's Kospi jumped about 7% to back above 5,000, as Samsung Electronics and SK Hynix rose more than 8% at their highs. Japan's Nikkei 225, back from Monday's holiday, gained about 4% to near 58,645, with chip-equipment makers Advantest up 12.5% and Tokyo Electron up 7.7%. Hong Kong was the exception: the Hang Seng fell nearly 1% to its lowest level in more than a year, while Shanghai edged up about 0.3%."
+     "text": "Asian tech stocks took the brunt of the renewed AI selling. Japan's Nikkei 225 fell 2.8% to about 57,012, giving back much of Tuesday's 4% jump, as SoftBank Group, a major OpenAI investor, plunged about 15%. In Seoul the Kospi fell about 6%, with Samsung Electronics down about 10% and SK Hynix about 11%, according to AP. Taiwan's Taiex dropped roughly 5% to 6%, with TSMC down sharply; reports differ on the exact close. Chinese markets were calmer: the Shanghai Composite slipped about 1%, and Hong Kong's Hang Seng ended roughly flat, with sources giving different final figures."
     },
     {
      "type": "sub",
@@ -75,7 +74,7 @@
     },
     {
      "type": "p",
-     "text": "European stocks are roughly flat after Monday's strongest session in about six months, when the Stoxx 600 rose about 1.9% and Germany's DAX about 2.2%. Reuters reported the Stoxx 600 slipping about 0.2% in morning trade as the tech rally faded. Chip stocks lost ground: Aixtron fell almost 9% after UBS downgraded it to sell, and Infineon and STMicroelectronics eased. Sanofi was among the top gainers on the Insmed deal. London's FTSE 100 is slightly lower."
+     "text": "European stocks are holding up better. The Stoxx 600 is up about 0.3% to 0.5%, per Reuters. Carmakers are leading, with the autos index up nearly 4% after the EU capped hybrid vehicle imports starting December 1. Remy Cointreau jumped about 10% after setting long-term sales and profit targets. Chip stocks are the drag: ASML is down about 2%, ASM International about 2.7% and STMicroelectronics about 2.6%, and tech investor Prosus fell about 3.4% after a profit miss. The reported US tariff plans, which would hit the EU, are a cloud over exporters."
     },
     {
      "type": "sub",
@@ -83,7 +82,7 @@
     },
     {
      "type": "p",
-     "text": "The dollar is a little weaker, with the dollar index down about 0.2% near 104.1. The euro is up about 0.3% near $1.094 and the pound up about 0.3% near $1.307. The yen remains weak as safe-haven demand fades: the dollar is near 159.3 yen, close to the 160 level that traders watch for possible Japanese intervention after Tokyo spent about ¥15.4 trillion supporting the yen in July and August. The dollar is flat against China's yuan near 6.66."
+     "text": "The dollar is firmer before the PCE data, with the dollar index near 104, close to 19-month highs according to FXStreet. Hike bets and tariff news are supporting it. The euro is down about 0.2% near $1.094. The yen is little changed near 159 to 159.5 per dollar, just below the 160 level where traders watch for Japanese intervention. The pound is near $1.31 and the yuan near 6.67 per dollar, both little changed; the yuan is the currency most exposed if China-specific tariffs are confirmed."
     }
    ]
   },
@@ -93,11 +92,11 @@
    "blocks": [
     {
      "type": "p",
-     "text": "US futures point to a lower open, with tech leading the decline. As of the latest readings before 8 a.m. ET, S&P 500 futures were down about 0.7% to 1% and Dow futures about 0.4% to 0.5%, while Nasdaq 100 futures were down more, between about 1% and 2% depending on the source and time. That would leave the S&P 500 well above Friday's close of 6,910 even after the dip, since Monday's gain was more than 4.5%."
+     "text": "US futures point to a sharply lower open, led by technology. As of the latest pre-market readings, S&P 500 futures were down about 1.4% to 1.7%, Nasdaq 100 futures about 2.3% to 2.6% and Dow futures about 0.8%, per CNBC and InvestingLive. The 8:30 a.m. data could shift them before the open. A drop of that size would put the S&P 500 near 7,080 to 7,100, still above last Friday's close of about 6,910 before Monday's 4.7% surge."
     },
     {
      "type": "p",
-     "text": "The pattern this morning is a partial reversal of Monday: Nvidia and other chipmakers are lower, while retail stocks with strong earnings, such as Dollar Tree, and deal targets like Insmed are higher. Small caps, which rose about 3.4% on Monday, are likely to track the broader market. Holiday-thinned trading this week can make moves larger than usual."
+     "text": "The pattern is the same as Tuesday but stronger: AI hardware and chip stocks are being sold, while defensive sectors held up. Tuesday's split was stark, with the Dow up 0.85% and the small-cap Russell 2000 up 0.57% even as the Nasdaq fell 1.5%."
     }
    ]
   },
@@ -106,22 +105,21 @@
    "blocks": [
     {
      "type": "p",
-     "text": "Treasury yields are slightly lower. The 2-year yield is near 4.64%, down about 3 basis points, the 10-year near 4.90%, down about 2 basis points, and the 30-year near 5.28%, down about 2 basis points. CNBC tied the move to digesting Williams's remarks ahead of today's 5-year note auction. The curve remains modestly upward sloping: the 10-year pays about 26 basis points more than the 2-year, and the 30-year about 64 basis points more. Deutsche Bank, in a forecast reported by the WSJ, expects the 10-year to end 2027 near 5.05%."
+     "text": "Treasury yields are slightly lower this morning as stocks fall, per CNBC and Tradeweb data. The 2-year yield is near 4.63%, down about 4 basis points, and the 10-year near 4.85% to 4.87%, down 3 to 5 basis points. The 30-year closed Tuesday near 5.30%. The curve still slopes upward: the 10-year pays about 23 basis points more than the 2-year, and the 30-year about 45 basis points more than the 10-year."
     },
     {
      "type": "p",
-     "text": "Markets treat a December hike as close to certain. CME FedWatch data cited by several outlets show roughly a 95% to 96% chance of a quarter-point increase at the December 8-9 meeting, with a small chance of a half point. Governor Christopher Waller has floated a larger move, while Williams said he would not exclude hiking at back-to-back meetings. Wednesday's PCE inflation data and the Beige Book are the last major inputs before the Fed's quiet period begins Saturday."
+     "text": "Markets treat a December hike as close to certain. CME FedWatch data cited by several outlets show about a 96% to 97% chance of a quarter-point increase at the December 8-9 meeting, with about a 2% chance of a half point. Some reports also cite roughly a 60% chance of another hike in January. Officials have leaned that way: New York Fed President John Williams said Monday higher rates are likely needed over time, and Vice Chair for Supervision Michelle Bowman said November 10 that inflation is broadening and more work is needed."
     },
     {
      "type": "sub",
-     "text": "Fed and Treasury events today"
+     "text": "Fed events today"
     },
     {
      "type": "list",
      "items": [
-      "No Fed speeches are confirmed on today's schedule; reports conflicted on whether Williams appears again.",
-      "1 p.m. ET: Treasury sells $70 billion of 5-year notes; the prior sale yielded 4.845%. Weak demand could push yields higher.",
-      "Also today: a $28 billion 2-year floating-rate note auction."
+      "Michelle Bowman, Fed Vice Chair for Supervision: listed on economic calendars at 7:25 a.m. ET; topic not announced.",
+      "2 p.m. ET: The Fed's Beige Book, a survey of business conditions across the 12 Fed districts, the last one before the December meeting."
      ]
     }
    ]
@@ -131,11 +129,11 @@
    "blocks": [
     {
      "type": "sub",
-     "text": "Sectors (Monday's session)"
+     "text": "Sectors (Tuesday's session)"
     },
     {
      "type": "p",
-     "text": "Technology led Monday by a wide margin, with the sector fund up about 9% as chipmakers rebounded behind Nvidia. Consumer discretionary and industrials each gained close to 4%, communication services about 3.6% and materials about 3.2%, all groups tied to AI spending or the big tech stocks. Defensive sectors lagged: health care, utilities and real estate rose about 1% to 1.5%, consumer staples were flat and energy was the only sector to fall, down about 1% as oil slid. Advancers beat decliners in the S&P 500 by about 5 to 1. Today's futures suggest a partial reversal, with tech under pressure."
+     "text": "Technology was by far the weakest sector Tuesday, down about 3.3% as Nvidia, Micron and other chip stocks reversed part of Monday's rally. Industrials slipped about 0.5%. Every other sector rose, led by health care, up about 3%, helped by Insmed's 14% jump on Sanofi's $41 billion takeover and a broad move into defensive stocks. Consumer staples gained about 1.7% and real estate about 1.3%. Energy, financials and communication services each rose close to 1%."
     },
     {
      "type": "sub",
@@ -144,12 +142,14 @@
     {
      "type": "list",
      "items": [
-      "Nvidia: down about 3% to 5% after Monday's 31.5% jump.",
-      "Insmed: up about 14% on Sanofi's $175-a-share cash offer.",
-      "Dollar Tree: up roughly 10% after adjusted earnings of $1.16 a share beat the roughly $0.91 to $0.92 expected; it raised its full-year profit outlook to $8.05 to $8.25 a share.",
-      "Analog Devices: down about 7% after its first-quarter revenue forecast of $4.25 billion to $4.55 billion implied little growth from the fourth quarter, despite a beat with adjusted EPS of $4.06 on $4.37 billion in revenue.",
-      "Hewlett Packard Enterprise: lower again after falling Monday despite raising its forecast on AI demand.",
-      "Dell: rose about 20% Monday on the Huang news ahead of tonight's report."
+      "Ambarella: down about 36% after a fourth-quarter sales forecast well below estimates.",
+      "Urban Outfitters: down about 14% to 15% after quarterly sales fell short of expectations.",
+      "Workday: down about 7% to 10%. Adjusted earnings of $2.82 a share and revenue of $2.71 billion beat forecasts and subscription revenue grew 12.8%, but CNBC tied the drop to disappointing free cash flow and a full-year sales outlook slightly below estimates.",
+      "Dell: down about 7% despite record results and higher guidance (see above).",
+      "Nvidia: down about 4.6%, extending Tuesday's roughly 6% loss.",
+      "Autodesk: down about 4%. It beat and raised its full-year outlook, but billings growth lagged revenue growth.",
+      "HP: little changed after volatile after-hours trading. It earned $0.83 a share on $16.0 billion revenue, above the $0.75 and $15.43 billion expected, and raised its dividend, but guided to lower free cash flow next year as memory chips rose to nearly 40% of its parts costs.",
+      "Deere: reported adjusted earnings of $3.89 a share, below the $4.03 expected, on revenue of $12.12 billion; it forecast fiscal 2027 net income of $4.5 billion to $5.25 billion."
      ]
     }
    ]
@@ -163,7 +163,7 @@
     },
     {
      "type": "p",
-     "text": "Crude is little changed, with Brent near $89.40 a barrel and WTI near $80.10. Brent is near its lowest level since late August and well below October's high near $105. Supply is the main driver: strategic reserve releases and forecasts of a surplus are offsetting Iran's claim that three tankers hit mines in the Strait of Hormuz. Some analysts, including Eurasia Group, warn that a sustained increase in attacks could change that balance."
+     "text": "Crude is lower, with Brent near $89.80 and WTI near $80.60, close to three-month lows and well below October's peak near $105. Supply is outweighing conflict risk. Gulf crude exports reached about 15 million barrels a day in October, around 82% of pre-war levels. Government inventory data is due at 10:30 a.m. ET, with analysts forecasting a build of about 2 million barrels."
     },
     {
      "type": "sub",
@@ -171,7 +171,7 @@
     },
     {
      "type": "p",
-     "text": "Gold is down about 0.7% near $3,624 an ounce, giving back part of Monday's bounce. Expectations of more Fed hikes make a metal that pays no interest less attractive, and the return of risk appetite has cut demand for havens. Gold remains far below its January record above $5,500."
+     "text": "Gold is near $3,530 to $3,560 an ounce, near its lowest level of the week after falling about 2% Tuesday, per FXStreet and Mining.com. Expectations of more Fed hikes and a firmer dollar make a metal that pays no interest less attractive. Gold is down more than a third from its January record above $5,500."
     },
     {
      "type": "sub",
@@ -179,7 +179,7 @@
     },
     {
      "type": "p",
-     "text": "Bitcoin is down about 2.4% near $59,650 and Ether down about 2.5% near $1,680, both reversing part of Monday's rebound. Bitcoin hit a roughly two-year low near $55,100 on Saturday. Crypto has tracked tech stocks closely during the selloff, and continued outflows from spot bitcoin ETFs have been cited as a drag."
+     "text": "Bitcoin is near $59,000, down about 2% over 24 hours, and Ether near $1,650, down about 2.5% to 3%, per Investing.com and crypto.news. Both are tracking tech stocks lower. Continued outflows from spot bitcoin ETFs and expected Fed hikes are the main drags cited. Traders are watching the year's low near $55,100, set last Saturday."
     }
    ]
   },
@@ -189,16 +189,18 @@
    "blocks": [
     {
      "type": "p",
-     "text": "A moderate day for data; the bond auction and after-hours earnings may matter more than the numbers:"
+     "text": "A packed morning because of the holiday. In order of likely market impact:"
     },
     {
      "type": "list",
      "items": [
-      "10 a.m. ET: Conference Board consumer confidence for November, forecast at 92.4 versus 91.7 last month. A weaker reading would fit the picture of cautious shoppers heading into Black Friday.",
-      "9 a.m. ET: S&P/Case-Shiller home prices, expected up 2.7% from a year earlier, unchanged from the prior month.",
-      "10 a.m. ET: Richmond Fed manufacturing index, forecast at -2.",
-      "1 p.m. ET: $70 billion 5-year note auction.",
-      "After the close: Dell, Workday, Autodesk and HP report."
+      "8:30 a.m. ET, October PCE prices: core expected +0.3% for the month and 3.2% from a year ago; headline 3.8% a year. Personal income and spending are each forecast up 0.4%.",
+      "8:30 a.m. ET, third-quarter GDP, second estimate: forecast 3.5% annualized versus 3.4% first reported.",
+      "8:30 a.m. ET, weekly jobless claims: forecast 201,000 versus 203,000. Durable goods orders: forecast +0.7%.",
+      "10 a.m. ET, new home sales for October: forecast 650,000 at an annual rate, down from 676,000.",
+      "10:30 a.m. ET, government crude inventories; noon, natural gas storage.",
+      "2 p.m. ET, Fed Beige Book.",
+      "Any time: a possible US tariff announcement on China, the EU and others."
      ]
     }
    ]
@@ -208,7 +210,7 @@
    "blocks": [
     {
      "type": "p",
-     "text": "A busy day for retail and tech. Several before-the-open reports were still being digested as this was written; figures below are only those confirmed in company releases or at least two outlets."
+     "text": "A light day for new reports. Most of the action is reaction to Tuesday evening's tech results; no major S&P 500 companies are confirmed to report after today's close."
     },
     {
      "type": "table",
@@ -219,34 +221,34 @@
      ],
      "rows": [
       [
+       "Deere",
+       "Wed, before open (call 10 a.m. ET)",
+       "Earnings missed while revenue beat. Watch management's comments on the farm downturn, tariffs and the fiscal 2027 profit outlook of $4.5 billion to $5.25 billion."
+      ],
+      [
        "Dell",
-       "Tue, after close",
-       "AI server orders and backlog, which stood at about $95 billion, and gross margins as memory costs rise. Dell guided to about $49 billion in revenue and $6.50 a share; consensus is about $6.62. Options imply a move of roughly 13%."
+       "Reported Tue, after close",
+       "Whether the selloff deepens after a record quarter: investors are weighing AI server margins against a $132 billion AI backlog."
       ],
       [
        "Workday",
-       "Tue, after close (call 4:30 p.m. ET)",
-       "Subscription growth versus its 12% guide and signs AI is helping or hurting business software demand. Analysts expect about $2.74 a share on $2.69 billion in revenue; the stock is down about 25% from its 2026 high."
+       "Reported Tue, after close",
+       "Free cash flow and the narrowed sales outlook; read-through for software spending and AI pressure on software firms."
       ],
       [
-       "Analog Devices",
-       "Tue, before open (reported)",
-       "Beat on earnings and revenue, but a cautious first-quarter outlook has the stock lower; a read on industrial and auto chip demand."
+       "HP",
+       "Reported Tue, after close",
+       "Memory chip costs and PC demand into next year; lower free-cash-flow guidance."
       ],
       [
-       "Medtronic",
-       "Tue, before open",
-       "Fiscal second-quarter results, due at 6:45 a.m. ET; watch organic growth versus its full-year target of 6.75% to 7.25%."
+       "Autodesk",
+       "Reported Tue, after close",
+       "Billings growth trailing revenue despite a raised outlook."
       ],
       [
-       "Dollar Tree",
-       "Tue, before open (reported)",
-       "Earnings beat and raised full-year outlook; a gauge of how lower-income shoppers are holding up."
-      ],
-      [
-       "Best Buy, Dick's, Burlington, Abercrombie",
-       "Tue, before open",
-       "Holiday-quarter outlooks and comments on consumer demand heading into Black Friday."
+       "Ambarella",
+       "Reported Tue, after close",
+       "A roughly 36% drop on weak guidance; watch for spillover into smaller chip names."
       ]
      ]
     }
@@ -258,10 +260,10 @@
    "blocks": [
     {
      "type": "p",
-     "text": "This is a holiday-shortened week: US markets are closed Thursday for Thanksgiving and close early, at 1 p.m. ET, on Friday. Wednesday is the main event, with a cluster of 8:30 a.m. ET releases moved up before the holiday: the second estimate of third-quarter GDP, forecast at 3.5% annualized; October PCE inflation, with core prices expected up 0.3% for the month; personal income and spending, each forecast up 0.4%; durable goods orders; and weekly jobless claims, expected near 201,000. New home sales follow at 10 a.m. and the Fed's Beige Book at 2 p.m. A hot PCE reading would firm up bets on hikes beyond December. Black Friday sales will offer an early read on holiday spending, and Huang's planned Senate testimony next week keeps Nvidia in focus."
+     "text": "Today carries most of the week's weight: the PCE, GDP, jobs and durable goods data at 8:30 a.m., the Beige Book at 2 p.m., and a possible tariff announcement. US stock and bond markets are closed Thursday for Thanksgiving. Friday is a shortened session, with stocks closing at 1 p.m. ET; the goods trade balance and wholesale inventories come out at 8:30 a.m., and early Black Friday sales reports will be watched for signs of how consumers are holding up after Tuesday's jump in Conference Board consumer confidence to 103.3. Looking past the week, Huang's congressional hearings on December 1 and 3 and the Fed decision on December 9 are the next big tests for markets."
     }
    ]
   }
  ],
- "bottom_line": "After Monday's surge, the tone is a modest pullback led by the same chip stocks that rallied most, while bonds are steady and Fed hike expectations are unchanged. Tonight's Dell and Workday results and Wednesday's PCE data are the next tests of whether the rebound holds."
+ "bottom_line": "The tone this morning is risk-off in tech, with AI-linked stocks under heavy selling from Tokyo to New York even after strong results from Dell, while bonds are steady and Europe is modestly higher. The 8:30 a.m. inflation data and any tariff news will set direction for a holiday-shortened week."
 }
