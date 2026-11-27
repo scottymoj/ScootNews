@@ -1,15 +1,15 @@
 {
-  "date": "2026-11-26",
-  "written_at": "2026-11-26T12:42:58Z",
-  "title": "Wall Street closed for Thanksgiving as global stocks rebound",
-  "dek": "U.S. exchanges are shut today and reopen Friday for a half session ending at 1 p.m. ET. Asia and Europe are bouncing after Wednesday's AI-led selloff, helped by U.S. tariff proposals that came in milder than many feared, while hot inflation data keeps a December Fed hike almost fully priced.",
+  "date": "2026-11-27",
+  "written_at": "2026-11-27T12:43:46Z",
+  "title": "Tech rebound lifts futures ahead of Black Friday half-day",
+  "dek": "U.S. stock futures are sharply higher as Nvidia and other AI names bounce after Wednesday's whipsaw, with Asia and Europe also up. Treasury yields are rising as the bond market reopens, and a December Fed hike remains almost fully priced in.",
   "quick": [
-    "U.S. stock and bond markets are closed for Thanksgiving; stocks reopen Friday with a shortened session ending at 1 p.m. ET.",
-    "Wednesday: the Nasdaq fell as much as about 4.5% intraday before closing down 0.6%; the S&P 500 lost 0.25% and the Dow rose 0.3%.",
-    "October PCE inflation rose to 3.8% year over year (core 3.3%), and fed funds futures price a December 9 quarter-point hike at well above 90%.",
-    "The U.S. proposed new tariffs on 14 trading partners; markets read the caps as less severe than feared, and Europe is up about 1.5% today.",
-    "S&P Global put Nvidia's AA credit rating on watch for a possible downgrade over governance and key-person risk after Jensen Huang's return as CEO.",
-    "Oil holds near Wednesday's jump after a Houthi claim of an attack on Saudi Arabia's Ras Tanura refinery; gold bounced back from a 14-month low."
+    "U.S. stocks trade a shortened session today, closing at 1 p.m. ET; the bond market closes at 2 p.m. ET.",
+    "S&P 500 futures are up about 1.7% and Nasdaq 100 futures roughly 2% to 2.5%, led by a rebound in AI and chip stocks.",
+    "Nvidia is up about 4% before the bell, even as reports say it paused AI server shipments to four Southeast Asian countries under a new U.S. license rule.",
+    "Treasury yields are up 5 to 6 basis points from Wednesday; the 10-year is near 4.91% and fed funds futures price a December hike at roughly 94% to 99%.",
+    "South Korea's Kospi jumped 4.3% and Japan's Nikkei 2.1%; European stocks are up close to 1%.",
+    "Gold is up about 2.7% from Wednesday's settlement, rebounding from a 14-month low, while Brent crude holds near $96.60 ahead of Sunday's OPEC+ meeting."
   ],
   "sections": [
     {
@@ -18,37 +18,38 @@
       "blocks": [
         {
           "type": "point",
-          "head": "Inflation runs hotter, cementing a December rate hike",
-          "what": "The Commerce Department said the PCE price index, the Fed's preferred inflation gauge, rose 0.3% in October and 3.8% from a year earlier, up from September's annual pace. Core PCE, which strips out food and energy, rose 3.3% year over year, above the 3.2% forecast and the highest in almost three years, per Advisor Perspectives. The same morning, third-quarter GDP growth was revised up to a 4.3% annual rate from 3.4%, and weekly jobless claims fell to 189,000.",
-          "why": "Strong growth plus rising inflation is the mix that pushes the Fed toward higher rates. CME FedWatch data cited by CNBC and others put the odds of a quarter-point hike at the December 8 to 9 meeting at roughly 96% to 98%. That supports the dollar and short-term yields and weighs on rate-sensitive growth stocks.",
-          "watch": "The next PCE report is due December 23, after the Fed meets. Before then, the debate is whether the Fed hikes by a quarter point or a half point."
+          "head": "AI and chip stocks lead a broad futures rally",
+          "what": "Stock index futures rose sharply overnight and held their gains this morning. S&P 500 futures were up about 1.7% and Nasdaq 100 futures up roughly 2% to 2.5%, depending on the snapshot, per Yahoo Finance, TipRanks and the app's market feed. Dow futures were up about 1%. The bounce follows Wednesday's session, when the Nasdaq fell as much as about 4.5% intraday before closing down 0.6%, and the S&P 500 ended down 0.25%.",
+          "why": "Technology and semiconductor shares, which led the November selloff, are leading the rebound, so the Nasdaq and the S&P 500's tech sector stand to gain most if futures hold. Holiday volume is light, which can exaggerate moves in both directions.",
+          "watch": "Whether gains hold into the 1 p.m. close, and whether month-end trading on Monday adds to or erases them."
         },
         {
           "type": "point",
-          "head": "AI stocks whipsaw: a deep intraday rout, then a partial recovery",
-          "what": "The Nasdaq fell as much as about 4.5% early Wednesday and the Dow dropped more than 1,000 points before buyers stepped in. By the close, the Nasdaq was down 0.6% at 23,585.80, the S&P 500 was down 0.25% at 7,182.78, and the Dow had turned positive, up 0.3% at 50,182.95. Nvidia closed down nearly 4%, giving back part of Monday's roughly 31% surge after Jensen Huang was reinstated as CEO.",
-          "why": "Tech and semiconductor stocks carry the most weight in the major indexes, so swings in Nvidia and other AI names drive the overall market. The VIX volatility index ended near 28, a level that signals traders are paying up for protection. Wednesday's late rebound set the tone for today's gains overseas.",
-          "watch": "Friday's half session tends to be very thin, so price moves can be exaggerated in either direction."
+          "head": "Nvidia rises premarket despite a reported Southeast Asia shipment pause",
+          "what": "Nvidia shares were up about 4% in premarket trading, around $155 to $156, according to several market reports, after closing down 3.9% on Wednesday near $149. Separately, the Financial Times reported Thursday, and other outlets including the New York Times followed, that Nvidia told server partners not to ship AI servers to buyers in Malaysia, Singapore, Thailand and Indonesia. The pause follows a Commerce Department rule, effective November 19, that requires export licenses for advanced chips sent to those four countries and Brazil, aimed at stopping Chinese firms from reaching restricted chips through third-country data centers. Nvidia has not publicly commented, and it is unclear how long the pause lasts.",
+          "why": "Nvidia is the largest weight in the S&P 500, so its swings move the whole index. The shipment pause raises questions about near-term sales in a fast-growing data-center region and could also weigh on server makers such as Dell and Supermicro, which reports say have told buyers their orders are on hold. S&P Global's decision earlier this week to put Nvidia's AA credit rating on watch for a downgrade, citing governance and key-person risk after Jensen Huang's return as CEO, remains in the background.",
+          "watch": "Any Nvidia statement on the pause, and whether license approvals come quickly for the affected countries."
         },
         {
           "type": "point",
-          "head": "U.S. proposes new tariffs on 14 trading partners",
-          "what": "The U.S. Trade Representative proposed Section 301 tariffs on 14 economies, including China, the European Union, Japan, South Korea, India, Taiwan, Vietnam and Switzerland, after an eight-month probe into excess manufacturing capacity. Reuters reported a proposed 20% rate for China on top of existing duties; the EU, Japan, South Korea and Switzerland face 15% with some exemptions, and several Southeast Asian countries up to 18%. USTR said rates would be capped at levels agreed in existing trade deals, and a comment period and hearings come first, with duties possible in January 2027.",
-          "why": "Because the caps largely match levels already in trade agreements, investors in Europe and Asia treated the plan as less damaging than feared, helping exporters and chipmakers rebound. Higher tariffs would still add to U.S. import costs, which matters for an inflation picture that is already running hot.",
-          "watch": "Watch the Federal Register notice for the formal rates and the reaction from Beijing and Brussels."
+          "head": "Bond yields rise as the Treasury market reopens",
+          "what": "Treasuries were closed Thursday and are trading again today. The 2-year yield is near 4.69%, the 10-year near 4.91% and the 30-year near 5.29%, each up about 5 to 6 basis points from Wednesday, per CNBC data and a Reuters market report. Yields had dipped Wednesday as investors sought safety during the stock rout, despite hotter-than-expected October inflation data.",
+          "why": "Higher yields lift borrowing costs for mortgages and companies and tend to pressure richly valued growth stocks and real estate shares. They also support the dollar. With stocks rebounding, some of the safe-haven buying from Wednesday is unwinding.",
+          "watch": "The bond market closes early at 2 p.m. ET today."
         },
         {
           "type": "point",
-          "head": "Nvidia's credit rating put on watch for a downgrade",
-          "what": "S&P Global Ratings placed Nvidia's AA rating on CreditWatch with negative implications, citing rising management and governance risk and heavy reliance on CEO Jensen Huang, per Reuters and other outlets. S&P said the CEO's exit and quick reinstatement left questions about board oversight of its code of conduct. Moody's, by contrast, said Huang's return reduces near-term uncertainty. The concern is governance, not finances: Nvidia holds more cash than debt.",
-          "why": "A one-notch cut would have little direct effect on Nvidia's borrowing costs, but it keeps governance questions in the headlines for the market's most influential stock. Any further fallout tends to ripple through chip stocks and AI-linked names worldwide.",
-          "watch": "S&P typically resolves a CreditWatch within about 90 days."
+          "head": "A December Fed hike remains close to fully priced in",
+          "what": "Fed funds futures imply roughly a 94% to 99% chance of a quarter-point rate increase at the December 8 to 9 meeting, according to CME FedWatch figures cited in several reports. That would lift the target range from 3.75%-4.00% to 4.00%-4.25%. Bets on a larger half-point move have faded, reports say. The Fed's pre-meeting quiet period, when officials stop speaking publicly on policy, begins Saturday.",
+          "why": "An expected hike is largely reflected in short-term yields already, so the market's focus is shifting to how many more hikes follow. Next Friday's November jobs report is the last major labor reading before the meeting and could move those expectations.",
+          "watch": "The jobs report on Friday, December 4."
         },
         {
           "type": "point",
-          "head": "Anthropic shares hover near their IPO price",
-          "what": "Anthropic, which priced its IPO at $83 a share last week and raised about $93.5 billion, has traded below or near that price this week after opening its first day at $111.50. Reports put Wednesday's close around $79 to $83, with outlets differing on the exact figure. Some analysts remain positive; Needham has a $150 price target and Wedbush $120, per Fortune.",
-          "why": "The stock is being watched as a gauge of investor appetite for AI. CNBC and the New York Times note a weak debut can weigh on other AI names and could slow the pace of startup funding and future tech IPOs."
+          "head": "Black Friday kicks off the holiday shopping test",
+          "what": "Adobe projects U.S. online sales of $12.9 billion today, up 9.2% from last year, and $15.1 billion on Cyber Monday. It expects $47.5 billion online across the five days from Thanksgiving through Cyber Monday, up 7.4%. Adobe counted $82.5 billion in online spending from November 1 through 22, up 9.1%. The National Retail Federation has forecast November and December sales up 4.2% to about $1.01 trillion, but it also said fewer people plan to shop over the holiday weekend as households watch budgets.",
+          "why": "Early sales readings can move retail and e-commerce stocks, including Amazon, Walmart, Target and Best Buy, and shape views on consumer spending at a time of rising interest rates. Strong online growth alongside cautious in-store traffic would favor large online sellers over traditional stores.",
+          "watch": "Adobe's and Salesforce's weekend sales tallies, likely out Saturday and Monday."
         }
       ]
     },
@@ -62,11 +63,11 @@
         },
         {
           "type": "p",
-          "text": "Asian markets bounced after Wednesday's sharp losses, though they gave back much of their early gains. Japan's Nikkei 225 rose about 0.9% to roughly 57,500 after being up around 2% early, led by chip and metals stocks; memory maker Kioxia jumped more than 12% on news of work with Nvidia. South Korea's Kospi ended only about 0.3% higher after a drop of more than 6% the day before. Hong Kong's Hang Seng gained about 1.2% to 22,226, recovering from its lowest level since April 2025, while the Shanghai Composite was flat near 3,476. Note the live table may show earlier, intraday levels."
+          "text": "Asian markets closed strongly higher as the AI selloff eased. Japan's Nikkei 225 rose 2.1% to 58,711, per Investing.com, extending Thursday's bounce. South Korea's Kospi jumped 4.3% to 4,915.68, and the smaller Kosdaq surged about 8%. Samsung Electronics gained about 4.6% and SK Hynix about 5.4%, and foreign investors were net buyers of more than 1 trillion won of Korean shares, per Korean market reports. Reports tied part of the Korean rally to hopes that authorities would expand a market stabilization fund. Hong Kong and mainland China also rose; reports linked late gains to Beijing pledging market support, though closing tallies vary by source."
         },
         {
           "type": "p",
-          "text": "The Bank of Korea raised its benchmark rate by a quarter point to 3.25%, the highest in two years, as economists expected. It cited persistent inflation, strong chip-driven exports and household debt, and it raised its growth forecast. Even after today's bounce, Korea's market is down about 16% this month and Japan's about 8%, per ABC News Australia."
+          "text": "In Japan, Tokyo's core consumer prices rose 2.9% from a year earlier in November, up from 2.6% in October and the fastest in 16 months, though slightly below the 3.0% economists expected, per Reuters-based reports. Short-term Japanese government bond yields rose as the data added to expectations of a Bank of Japan rate hike in December, the Wall Street Journal reported, and BOJ board member Tamura called for further rate increases, according to Saxo."
         },
         {
           "type": "sub",
@@ -74,7 +75,7 @@
         },
         {
           "type": "p",
-          "text": "European stocks are having one of their better days in weeks. By midday, the Stoxx 600 was up about 1.6%, Germany's DAX about 1.9%, France's CAC 40 about 1.8% and the FTSE 100 about 1.6%. Technology shares led, with the region's tech index up about 2.4%, and banks also rose. Traders cited the milder-than-feared U.S. tariff caps and lower bond yields. Wednesday's selloff had pushed the Stoxx 600 near a two-month low, so part of this is a rebound."
+          "text": "European stocks are higher at midday. The Stoxx 600 was up about 1%, Germany's DAX roughly 0.7% to 0.8%, Britain's FTSE 100 about 0.6% to 0.7% and France's CAC 40 slightly higher, per Alliance News and CNBC data. Chip and mining stocks led, and the stronger gold price lifted precious-metals miners in London. The FTSE 100 is on track for its biggest weekly gain in about eight months, Alliance News reported. Traders have also cited the U.S. tariff proposals announced Wednesday, which were seen as milder than feared."
         },
         {
           "type": "sub",
@@ -82,40 +83,36 @@
         },
         {
           "type": "p",
-          "text": "The dollar is steady in holiday trading. The dollar index is near 104, just below Monday's 20-month high of about 104.6, supported by expectations of further Fed hikes. The euro is around $1.096 as traders look to European Central Bank meeting minutes for clues on December. The yen is weak near 159 per dollar, close to the 160 level where Tokyo stepped in earlier this year, because the gap between U.S. and Japanese interest rates remains wide. The pound is near $1.31, and China's yuan is near 6.66 per dollar."
+          "text": "The dollar is steady in thin trading. The dollar index is near 103.8, just below its highest level since March 2025, and is on track for a third straight monthly gain, per Reuters. Expectations for further Fed hikes are the main support. The euro is around $1.097 to $1.098, little changed. The yen is near 159.2 per dollar, close to levels where Japanese officials have voiced concern in the past; the Tokyo inflation data and BOJ hike talk have not lifted it so far. The pound is near $1.311, and China's yuan is around 6.66 per dollar."
         }
       ]
     },
     {
       "title": "Market Snapshot",
-      "live": "snapshot",
       "kicker": "Futures",
+      "live": "snapshot",
       "blocks": [
         {
           "type": "p",
-          "text": "Cash markets are closed, but stock index futures are trading on a limited holiday schedule. S&P 500 futures were up about 0.7% this morning and Nasdaq 100 futures roughly 1%, extending Wednesday's late recovery. Holiday futures trade on very light volume, so these moves say little about where Friday's session will open."
+          "text": "U.S. futures point to a strong open after Wednesday's partial recovery. Nasdaq 100 futures are leading, up roughly 2% or more, with S&P 500 futures up about 1.7% and Dow futures around 1%. The gains reflect a rebound in chip and AI stocks, which have been hit hardest this month, and follow strength in Asia and Europe. Smaller companies outperformed on Wednesday, with the Russell 2000 up 0.7%, and the question today is whether money rotates back into big tech."
         },
         {
           "type": "p",
-          "text": "Wednesday's action shows how fragile sentiment is: the market dropped hard on inflation, tariff and AI valuation worries, then recovered most of the loss by the close. Smaller companies did better, with the Russell 2000 up 0.7%, while the tech-heavy Nasdaq lagged. The VIX rose about 7% to around 28."
+          "text": "Keep the context in mind: today's session ends at 1 p.m. ET, and post-Thanksgiving volume is typically among the lightest of the year, so price moves can be larger than usual and may not carry into next week. Volatility has been elevated through November, and the Nasdaq 100 remains on course for a weak month despite this week's rebound."
         }
       ]
     },
     {
       "title": "Rates & the Fed",
-      "kicker": "Bonds",
+      "kicker": "Yields",
       "blocks": [
         {
           "type": "p",
-          "text": "Treasury yields fell Wednesday even though the inflation data ran hot, as investors bought bonds for safety during the stock rout, per CNBC. The 2-year yield slipped about 2 basis points to 4.65%, the 10-year fell about 4 basis points to roughly 4.86%, and the 30-year dropped about 4 basis points to about 5.25%. The curve is upward sloping: the 10-year sits roughly 21 basis points above the 2-year, and the 30-year about 39 basis points above the 10-year. The bond market is closed today."
+          "text": "Treasury yields are moving higher as cash bonds trade for the first time since Wednesday. The 2-year yield is near 4.69%, the 10-year near 4.91% and the 30-year near 5.29%, each up roughly 5 to 6 basis points. The gap between the 2-year and 10-year is about 23 basis points, and the 30-year sits about 38 basis points above the 10-year, a moderately upward-sloping curve. The 10-year traded above 5% in mid-November, so yields remain below this month's highs."
         },
         {
           "type": "p",
-          "text": "The Fed's target range is 3.75% to 4.00%. Futures markets imply a quarter-point hike at the December 8 to 9 meeting is close to certain, which would lift the range to 4.00% to 4.25%. The open question is size: Governor Christopher Waller said earlier this month that a half-point move is probably needed, while Chair Kevin Warsh has avoided giving that kind of advance guidance, according to reports. Futures still favor a quarter point. JPMorgan economists expect further quarter-point hikes in January and March."
-        },
-        {
-          "type": "p",
-          "text": "The Fed's Beige Book, released Wednesday, found eight of 12 districts reporting slight to moderate growth, down from nine, and said wage and benefit pressures picked up for hard-to-fill jobs."
+          "text": "The Fed's target range is 3.75% to 4.00%. Fed funds futures price a quarter-point hike on December 9 at roughly 94% to 99%, per CME FedWatch figures cited by several outlets, after October's PCE report showed inflation at 3.8% overall and 3.3% for the core measure. Governor Christopher Waller said earlier this month that a half-point move may be needed, but reports say bets on a larger hike have faded. Some analysts say markets are also pricing another hike in January. The Beige Book, released Wednesday, showed growth slowing slightly in some regions and wage pressures picking up for hard-to-fill jobs."
         },
         {
           "type": "sub",
@@ -124,42 +121,43 @@
         {
           "type": "list",
           "items": [
-            "None scheduled; markets and the Fed are off for Thanksgiving."
+            "No Fed officials were found on today's public schedule.",
+            "The pre-meeting blackout runs from Saturday, November 28, through December 10, per the Atlanta Fed, so no policy comments are expected until after the December 9 decision."
           ]
         }
       ]
     },
     {
       "title": "Stocks & Sectors",
-      "kicker": "Wednesday's session",
+      "kicker": "Leaders and laggards",
       "blocks": [
         {
           "type": "p",
-          "text": "Wednesday was a split day under the surface. Materials led the S&P 500 sectors, up about 2%, followed by real estate, communication services and industrials, each up close to 1%. Financials and energy also gained about 0.7%. Technology was the weakest sector, down about 0.8%, as Nvidia and other AI-linked names fell, followed by health care, down about 0.6%, and consumer discretionary, down about 0.2%."
+          "text": "In Wednesday's session, the most recent full day, materials led the S&P 500 sectors, up about 2%, followed by real estate, communication services and industrials, each up close to 1%. Energy and financials gained about 0.7%. Technology was the weakest sector, down about 0.8%, followed by health care, down about 0.6%, and consumer discretionary, slightly lower. The pattern showed investors trimming crowded AI holdings and moving into cyclical and value areas, while lower yields that day helped real estate."
         },
         {
           "type": "p",
-          "text": "The pattern reflects a rotation: investors trimmed the crowded AI trade and moved toward cyclical and value sectors, while lower Treasury yields helped real estate. Several large tech names, including Apple and Meta, finished higher after the early slide, per wire reports."
+          "text": "This morning that pattern looks set to reverse, at least in part. With chip stocks bouncing and yields rising, technology is positioned to lead and rate-sensitive sectors such as real estate and utilities could lag."
         },
         {
           "type": "sub",
-          "text": "Names to watch Friday"
+          "text": "Pre-market movers"
         },
         {
           "type": "list",
           "items": [
-            "Nvidia: governance headlines and the S&P credit watch remain in focus after a volatile week.",
-            "Anthropic: trading around its $83 IPO price, seen as a read on AI demand among investors.",
-            "Retailers: Black Friday kicks off the holiday season; Adobe forecasts $12.9 billion in U.S. online Black Friday spending, up 9.2%.",
-            "Chinese ADRs such as Li Auto: Li Auto's third-quarter results beat revenue estimates, but its fourth-quarter outlook disappointed, per reports.",
-            "Defense and energy stocks: Middle East tensions and oil prices remain a driver."
+            "Nvidia: up about 4%, recovering part of this week's losses despite reports it paused AI server shipments to Malaysia, Singapore, Thailand and Indonesia.",
+            "Chip and AI hardware stocks broadly: higher alongside Nvidia, following gains in Samsung and SK Hynix overnight.",
+            "Dell and Supermicro: in focus after reports said they told Southeast Asian buyers their Nvidia-based server orders cannot ship.",
+            "Gold and silver miners: in focus as gold rebounds about 2.7% and silver jumps more sharply.",
+            "Retailers such as Amazon, Walmart, Target and Best Buy: in focus on Black Friday traffic and online sales readings."
           ]
         }
       ]
     },
     {
       "title": "Commodities & Crypto",
-      "kicker": "Oil, gold, bitcoin",
+      "kicker": "Oil, gold, Bitcoin",
       "blocks": [
         {
           "type": "sub",
@@ -167,7 +165,7 @@
         },
         {
           "type": "p",
-          "text": "Brent crude rose about 3.5% Wednesday to near $94.60 a barrel and U.S. crude about 2% to near $83.70, per CNBC, after Yemen's Houthis said they attacked Saudi Arabia's Ras Tanura refinery, the kingdom's largest. Saudi-led coalition forces said they intercepted drones there and did not confirm damage, but satellite images reviewed by Reuters showed large plumes of smoke. Prices are edging higher again today, with Brent around $95. Offsetting the risk premium, the International Energy Agency expects the oil market to swing back to surplus. OPEC+ ministers meet November 29 to set 2027 output policy."
+          "text": "Brent crude is near $96.60 a barrel, roughly flat today, while U.S. crude (WTI) is up about 2.5% to near $85.80 as it catches up to Brent after Thursday's holiday-shortened trading. Prices jumped Wednesday after Yemen's Houthis claimed an attack on Saudi Arabia's Ras Tanura refinery. The Saudi-led coalition said it intercepted drones there and did not confirm damage, while Reuters cited a person familiar with the matter saying the refinery was attacked. Attention now turns to Sunday's OPEC+ meeting, which is expected to address output policy for 2027; analysts are split on whether the group holds supply steady or adds barrels, with the IEA forecasting a global surplus."
         },
         {
           "type": "sub",
@@ -175,7 +173,7 @@
         },
         {
           "type": "p",
-          "text": "Gold briefly fell below $3,500 an ounce Wednesday for the first time since September 2025, as the hot inflation data reinforced expectations of Fed hikes, which make non-yielding gold less attractive. It has since recovered to around $3,580. Recent selling was also tied to investors raising cash to cover losses elsewhere during the AI stock slide, according to reports."
+          "text": "Gold is up about 2.7% from Wednesday's settlement, near $3,630 to $3,660 an ounce depending on the contract and time, per CNBC data and other market reports. That is a rebound from Wednesday's 14-month low, when hot inflation data reinforced Fed-hike expectations. Silver has gained even more. Thin holiday volume has amplified the move. A near-certain Fed hike remains a headwind for gold, which pays no interest."
         },
         {
           "type": "sub",
@@ -183,36 +181,36 @@
         },
         {
           "type": "p",
-          "text": "Bitcoin is trading around $60,000 to $61,000, steadier today after recent declines, with crypto investment funds still seeing outflows, per FXStreet. Ether is near $1,700. Both remain sensitive to risk appetite in tech stocks and to expectations of higher interest rates."
+          "text": "Bitcoin is near $61,500, up about 1.3% from a day earlier, and Ether is near $1,735, up about 2%, per the app's market feed. Both remain far below their levels of a month ago and continue to track risk appetite in tech stocks and expectations for higher interest rates."
         }
       ]
     },
     {
       "title": "Today's Calendar",
+      "kicker": "Data",
       "live": "calendar",
-      "kicker": "Thursday",
       "blocks": [
         {
           "type": "p",
-          "text": "There are no U.S. economic releases today because of the Thanksgiving holiday. Global markets will take cues from overseas data and headlines instead."
+          "text": "It is a light day for U.S. data. Both releases come at 8:30 a.m. ET and are rarely market-moving:"
         },
         {
           "type": "list",
           "items": [
-            "Thursday: U.S. markets closed; European markets open with ECB meeting minutes in focus.",
-            "Friday 8:30 a.m. ET: advance goods trade balance (forecast about -$135.9 billion) and preliminary wholesale inventories (forecast +0.5%). Both are typically low-impact.",
-            "Friday 1:00 p.m. ET: early close for U.S. stock markets."
+            "Advance goods trade balance for October: economists expect a deficit of about $135.9 billion, slightly wider than September's $134.9 billion. A wider gap would subtract from fourth-quarter GDP estimates.",
+            "Preliminary wholesale inventories for October: expected up 0.5% after 0.6% in September.",
+            "Market hours: stocks close at 1 p.m. ET; bonds at 2 p.m. ET."
           ]
         }
       ]
     },
     {
       "title": "Earnings to Watch",
-      "kicker": "Holiday-light",
+      "kicker": "Reports",
       "blocks": [
         {
           "type": "p",
-          "text": "With U.S. markets closed, there are no major S&P 500 reports today. The busiest names this week are overseas or have already reported."
+          "text": "No S&P 500 companies are scheduled to report today, which is typical for the day after Thanksgiving. The app's earnings calendar lists only a handful of small and foreign-listed companies. Retail sales readings from Black Friday will serve as the main corporate signal."
         },
         {
           "type": "table",
@@ -223,14 +221,19 @@
           ],
           "rows": [
             [
-              "Li Auto (LI)",
-              "Reported Wed.",
-              "Q3 revenue of about 28.8 billion yuan beat estimates and the loss narrowed, but Q4 guidance missed expectations; first U.S. trading reaction comes Friday."
+              "No S&P 500 reports",
+              "Today",
+              "Holiday-shortened session with no major earnings"
             ],
             [
-              "Retailers (various)",
-              "Black Friday",
-              "No earnings, but early holiday sales reads from Adobe and others set the tone for retail stocks."
+              "Retailers (Amazon, Walmart, Target, Best Buy)",
+              "All day",
+              "Black Friday traffic and Adobe's online sales tally versus the 9.2% growth forecast"
+            ],
+            [
+              "Nvidia",
+              "All day",
+              "Any comment on the Southeast Asia shipment pause and export license timing"
             ]
           ]
         }
@@ -238,15 +241,15 @@
     },
     {
       "title": "Week Ahead",
+      "kicker": "Next week",
       "live": "week",
-      "kicker": "Rest of the week",
       "blocks": [
         {
           "type": "p",
-          "text": "The rest of the week is short. U.S. stocks reopen Friday for a half session ending at 1 p.m. ET, with minor trade and inventory data before the open. Black Friday kicks off the holiday shopping season; the National Retail Federation forecasts November and December sales up 4.2% to about $1.01 trillion, with part of the gain coming from higher prices. Over the weekend, OPEC+ meets on November 29 to set 2027 output, which could move oil. Looking further out, the big event is the Fed's December 8 to 9 meeting, where a rate hike is widely expected, while investors track tariff hearings, Middle East tensions and whether AI stocks can stabilize after a volatile November."
+          "text": "The weekend brings two events with market implications: Taiwan holds local elections on Saturday, and OPEC+ ministers meet Sunday to set 2027 output policy, which could move oil prices at Monday's open. Monday is also the last trading day of November, when month-end portfolio rebalancing can drive large moves. The U.S. data calendar then picks up: the ISM manufacturing index and JOLTS job openings on Tuesday, ADP private payrolls on Wednesday, the ISM services index on Thursday, and the November jobs report on Friday, December 4. That jobs report is the last major reading before the Fed's December 8 to 9 meeting, and with Fed officials in their quiet period, the data will be the main guide for rate expectations."
         }
       ]
     }
   ],
-  "bottom_line": "Global markets are rebounding on a quiet U.S. holiday as tariff fears ease, but hot inflation, a near-certain December Fed hike and swings in AI stocks keep volatility high heading into Friday's shortened session."
+  "bottom_line": "The morning tone is risk-on: AI stocks, global equities and gold are rebounding after a volatile week, while rising yields and a near-certain December Fed hike remain the main counterweight. Light holiday volume means today's moves may be a weak signal for next week."
 }
